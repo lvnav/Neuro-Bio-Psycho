@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note from pc.md",
+                "file": "Zettelkasten/Apprentissage préparé (preparedness).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test note from pc.md",
+                "file": "Zettelkasten/Apprentissage préparé (preparedness).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test note from pc.md",
+                "file": "Zettelkasten/Apprentissage préparé (preparedness).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test note from pc.md"
+                "file": "Zettelkasten/Apprentissage préparé (preparedness).md"
               }
             }
           }
@@ -137,5 +138,14 @@
     "collapsed": true
   },
   "active": "7b971dfc303d0a16",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Zettelkasten/Amygdale.md",
+    "Zettelkasten/Molecular genetics.md",
+    "Zettelkasten/Gradualisme.md",
+    "Templates/Core Zettel Idea.md",
+    "Zettelkasten/Behavioral evolution.md",
+    "Zettelkasten/new idea.md",
+    "Zettelkasten/Untitled.md",
+    "test note from pc.md"
+  ]
 }
