@@ -23,7 +23,7 @@ Mécanismes mis en place par les agents/individus de l'èspece pour perdurer:
 - [[Sélection de parentèle]]
 - [[Altruisme réciproque]]
 
-On s'intéresse également à la théorie des jeux notamment au [[Dilemne du prisonnier]] dans lequel on peut constater certains pattern de jeux optimaux dans le sens où en jouant d'une certaine façon on maximise ses chances de gagner sur plusieurs tours. Un des pattern optimal est le tit-for-tat([[Coopération-Réciprocité-Pardon]]). On constate aussi qu'il peut y avoir des patterns optimaux contre des patterns optimaux(plus la source)
+On s'intéresse également à la théorie des jeux notamment au [[Dilemne du prisonnier]] dans lequel on peut constater certains pattern de jeux optimaux dans le sens où en jouant d'une certaine façon on maximise ses chances de gagner sur plusieurs tours. 
 
 ---
 # References
