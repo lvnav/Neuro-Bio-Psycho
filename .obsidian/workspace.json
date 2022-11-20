@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md",
+                "file": "Zettelkasten/Principe d'incertitude d'Heisenberg.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md",
+                "file": "Zettelkasten/Principe d'incertitude d'Heisenberg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md",
+                "file": "Zettelkasten/Principe d'incertitude d'Heisenberg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md"
+                "file": "Zettelkasten/Principe d'incertitude d'Heisenberg.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "23bda8bcb7d903f5",
   "lastOpenFiles": [
-    "Zettelkasten/Punition Altruiste.md",
-    "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md",
-    "Zettelkasten/Behavioral evolution.md",
-    "Zettelkasten/Dilemne du prisonnier.md",
     "Zettelkasten/Amygdale.md",
-    "Zettelkasten/Apprentissage préparé (preparedness).md",
-    "Zettelkasten/Molecular genetics.md",
-    "Zettelkasten/Gradualisme.md",
-    "Templates/Core Zettel Idea.md",
-    "Zettelkasten/new idea.md"
+    "Zettelkasten/Insula (ou cortex insulaire).md",
+    "Zettelkasten/locus coeruleus.md",
+    "Zettelkasten/Couche de valence.md",
+    "Zettelkasten/Stress.md",
+    "Zettelkasten/Social Status and Health in Humans and Other Animals.md",
+    "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md",
+    "Files/social-status-and-health-in-humans-and-other-animals.pdf",
+    "Zettelkasten/Allostasie.md",
+    "Zettelkasten/Punition Altruiste.md"
   ]
 }
