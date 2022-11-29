@@ -45,8 +45,39 @@ Tags:
 
 
 ## Seconds to Minutes
+### Universal Rules vs Knobby Knees
+- Sensory Triggers of Behavior in Some Other SPecies
+- Under the Radard: Subliminal and Unconscious Cuing
+- Interoceptive Informations
+- Unconscious Language Effetcts
+- Even Subtler Types of Unconscious Cuing
+- A Wonderfully Complicating Piece of Story
+### Conclusions
 
+## Hours to Days Before
+### Testosterone's Bum Rap
+- Correlation and Causality
+- Subtleties of Testosterone Effects
+- Contingent Testosterone Effects
+- A Key Synthesis: The Challenge Hypothesis
 
+### Oxytocin and Vasopressin: A Marketing Dream
+- Basics
+- Neurobiologists Take Notice
+- Prosociality vs Sociality
+- Contingent Effects of Oxytocin and Vasopressin
+- And the Dark SIde of These Neuropeptides
+
+### The Endocrinology of Aggression in Females
+- Maternal Aggression
+- Bare-Knuckled Female Aggession
+- Perimenstrual Aggression and Irritability
+
+### Stress And Imprudent Brain Function
+- The Basic Dichotomy of the Acute and the Chronic Stress Response
+- A Brief Digression: Stress that We Love
+- Sustained Stress and the Neurobiology of Fear
+- Sustained Stress, Executive Function, and Judgment
 
 
 ---
