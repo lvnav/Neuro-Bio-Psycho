@@ -30,7 +30,7 @@ Tags:
 - The Frontal Cortex and Cognition
 - Frontal Metabolism and an Implicit Vulnerability
 - The Frontal Cortex and Social Behavior
-- The Obligatory Declaration of the Falseness of the Dichotomy Between Cognition and Emiotion
+- The Obligatory Declaration of the Falseness of the Dichotomy Between Cognition and Emotion
 - The Frontal Cortex and Its Relationship with the Limbic System
 
 ### The Mesolimbic/Mesocortical Dopamine Pathway
@@ -46,7 +46,7 @@ Tags:
 
 ## Seconds to Minutes
 ### Universal Rules vs Knobby Knees
-- Sensory Triggers of Behavior in Some Other SPecies
+- Sensory Triggers of Behavior in Some Other Species
 - Under the Radard: Subliminal and Unconscious Cuing
 - Interoceptive Informations
 - Unconscious Language Effetcts

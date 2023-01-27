@@ -2,6 +2,6 @@
   "attachmentFolderPath": "Files",
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettelkasten",
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true
 }

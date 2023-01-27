@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbd52eefda11f83",
+        "id": "0c8f5ab2ba284250",
         "type": "tabs",
         "children": [
           {
-            "id": "23bda8bcb7d903f5",
+            "id": "898430d3e4b65f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Principe d'incertitude d'Heisenberg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e84ecd6dd6413bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
+                "file": "Anatomy and Physiology/Les tissus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "df5b6e9fe66927aa",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
+                "file": "Anatomy and Physiology/Les tissus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
+                "file": "Anatomy and Physiology/Les tissus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Behave The Biology of Humans at Our Best and Worst.md"
+                "file": "Anatomy and Physiology/Les tissus.md"
               }
             }
           }
@@ -150,17 +137,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e84ecd6dd6413bc3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "898430d3e4b65f93",
   "lastOpenFiles": [
-    "Zettelkasten/Principe d'incertitude d'Heisenberg.md",
-    "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
+    "Files/tight-junction.svg",
+    "Anatomy and Physiology/Les tissus.md",
+    "Files/epithelial_tissue.svg",
+    "Zettelkasten/Allostasie.md",
+    "Zettelkasten/homéostasie.md",
+    "Zettelkasten/potentiel d'action.md",
     "Zettelkasten/Amygdale.md",
-    "Zettelkasten/Insula (ou cortex insulaire).md",
-    "Zettelkasten/locus coeruleus.md",
-    "Zettelkasten/Couche de valence.md",
-    "Zettelkasten/Stress.md",
-    "Zettelkasten/Social Status and Health in Humans and Other Animals.md",
-    "Zettelkasten/Know Your Place Neural Processing of Social Hierarchy.md",
+    "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
+    "Zettelkasten/Untitled.md",
     "Files/social-status-and-health-in-humans-and-other-animals.pdf"
   ]
 }
