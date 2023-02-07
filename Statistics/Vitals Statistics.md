@@ -55,6 +55,9 @@ $$P(X=r) = ^nC_r \times p^r \times q^{n-r}$$
 Esperance: $E(X) = np$
 Variance: $Var(X) = npq$
 
+Can be approximated by Poisson when $p<0.1$ and $n>50$
+Can be approximated by Normal when $np > 5$ and $nq > 5$
+
 ## Poisson Distribution
 Covers situations where:
 - Individual events occur at random and independently in a given
