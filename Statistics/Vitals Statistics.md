@@ -17,10 +17,20 @@ $$\mu = \frac{\Sigma x}{n}$$
 $$upperbound - lowerbound$$
 ## Variance 
 
+### Sur population:
 $$\frac{\Sigma(x-\mu)^2}{n}$$
 ou
 $$\frac{\Sigma x^2}{n}-\mu^2$$
+### Sur échantillon
+$$\frac{\Sigma(x-\mu)^2}{n-1}$$
 
+## Expectation
+
+$$E(X) = \Sigma xP(X = x)$$
+
+## Variance (probability distribution)
+
+$$Var(X) = E(X-\mu)^2 = \Sigma(x-\mu)^2P(X=x)$$
 
 ## Z-Score
 
@@ -56,7 +66,7 @@ Esperance: $E(X) = np$
 Variance: $Var(X) = npq$
 
 Can be approximated by Poisson when $p<0.1$ and $n>50$
-Can be approximated by Normal when $np > 5$ and $nq > 5$
+Can be approximated by Normal when $np > 5$ and $nq > 5$ (ne pas oublier la correction de continuité)
 
 ## Poisson Distribution
 Covers situations where:
@@ -72,3 +82,19 @@ Où e = constante d'Euler = 2.718
 
 Esperance: $\lambda$
 Variance: $\lambda$
+
+Can be approximated by Normal when $\lambda > 15$ (don't forget continuous correction)
+
+## Chi 2 
+
+$$\chi^2_\alpha(\nu) = \Sigma \frac{(O-E)^2}{E}$$
+$\nu = (numberOfClasses) - (numberOfRestrictions)$
+$\alpha=testSignificance$
+
+## Distribution d'échantillons de proportions(Ps)
+
+Espérance: $E(P_s)=p$
+Variance = $Var(P_s)=\frac{pq}{n}$
+
+$$P_s forN(p,\frac{pq}{n})$$
+Can ben approximated by Normal when $n>30$ (don't forget continuous correction => $\pm1/2n$)
