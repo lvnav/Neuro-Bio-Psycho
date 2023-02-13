@@ -97,4 +97,41 @@ Espérance: $E(P_s)=p$
 Variance = $Var(P_s)=\frac{pq}{n}$
 
 $$P_s forN(p,\frac{pq}{n})$$
-Can ben approximated by Normal when $n>30$ (don't forget continuous correction => $\pm1/2n$)
+Can be approximated by Normal when $n>30$ (don't forget continuous correction => $\pm1/2n$)
+
+## Sampling distribution of means
+
+Espérance = $E(\bar{X})=\mu$
+Variance = $Var(\bar{X})=\frac{\sigma^2}{n}$
+Écart-type = $\sqrt{Var(\bar{X})}$
+Erreur type(Standard error of the mean) = $\frac{\sigma}{\sqrt{n}}$
+
+By the central limit theorem, if your sample of X is
+large, then X’s distribution is approximately normal.
+
+
+$$\bar{X}\sim N(\mu, \frac{\sigma^2}{n})$$
+## Confidence interval
+
+$$statistic \pm(marginOfError)$$
+where $marginOfError=c\times(standardDeviationOfStatistic)$
+
+1. choose pop statistic to estimate(ex: mean)
+2. find its sampling distribution
+3. decide level of confidence
+4. find confidence limits
+
+| Population Statistic | Population distribution | Conditions| Confidence interval|
+|- | - |-|-|
+|$\mu$|Normal|Know what $\sigma^2$ is. n is large or small. $\bar{X}$ is the sample mean | $\bar{x}-c\frac{\sigma}{\sqrt{n}},\bar{x}+c\frac{\sigma}{\sqrt{n}}$
+|$\mu$|Non-normal|Know what $\sigma^2$ is. n is large (at least 30). $\bar{X}$ is the sample mean  |$\bar{x}-c\frac{\sigma}{\sqrt{n}},\bar{x}+c\frac{\sigma}{\sqrt{n}}$
+|$\mu$|Normal or non-normal|Don't know what $\sigma^2$ is. n is large (at least 30). $\bar{X}$ is the sample mean. $s^2$ is the sample variance|$\bar{x}-c\frac{s}{\sqrt{n}},\bar{x}+c\frac{s}{\sqrt{n}}$
+|p|Binomial|n is large. $p_s$ is the sample proportion. $q_s$ is $1-p_s$ |$p_s-c\sqrt{\frac{p_sq_s}{n}},p_s+c\sqrt{\frac{p_sq_s}{n}}$
+
+|Level of confidence|Value of c|
+|-|-|
+|90%|1.64|
+|95%|1.96|
+|99%|2.58|
+
+
