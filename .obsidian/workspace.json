@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomy and Physiology/Les tissus.md",
+                "file": "Zettelkasten/Comparatif des moyens de reproduction du vivant.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "df5b6e9fe66927aa",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomy and Physiology/Les tissus.md",
+                "file": "Zettelkasten/Comparatif des moyens de reproduction du vivant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomy and Physiology/Les tissus.md",
+                "file": "Zettelkasten/Comparatif des moyens de reproduction du vivant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomy and Physiology/Les tissus.md"
+                "file": "Zettelkasten/Comparatif des moyens de reproduction du vivant.md"
               }
             }
           }
@@ -147,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "898430d3e4b65f93",
+  "active": "587c6da5d30e5889",
   "lastOpenFiles": [
-    "Files/tight-junction.svg",
+    "Zettelkasten/Behavioral evolution.md",
+    "Zettelkasten/Comparatif des moyens de reproduction du vivant.md",
+    "Statistics/Vitals Statistics.md",
+    "Zettelkasten/Untitled.md",
     "Anatomy and Physiology/Les tissus.md",
+    "Files/tight-junction.svg",
     "Files/epithelial_tissue.svg",
     "Zettelkasten/Allostasie.md",
     "Zettelkasten/homéostasie.md",
-    "Zettelkasten/potentiel d'action.md",
-    "Zettelkasten/Amygdale.md",
-    "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
-    "Zettelkasten/Untitled.md",
-    "Files/social-status-and-health-in-humans-and-other-animals.pdf"
+    "Zettelkasten/potentiel d'action.md"
   ]
 }
