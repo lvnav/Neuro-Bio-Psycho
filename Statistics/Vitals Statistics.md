@@ -99,6 +99,17 @@ Variance = $Var(P_s)=\frac{pq}{n}$
 $$P_s forN(p,\frac{pq}{n})$$
 Can be approximated by Normal when $n>30$ (don't forget continuous correction => $\pm1/2n$)
 
+## Sampling
+
+$\mu$ = mean of population
+$\bar{\mu}$ = mean of the sample
+$\hat{\mu}$ = point estimator = estimation de la valeur de la pop. à partir d'un échantillon
+
+$\hat{\sigma}^2 =s^2$
+
+We can estimation the population mean by the sample mean => $\bar{\mu} = \hat{\mu}$
+
+
 ## Sampling distribution of means
 
 Espérance = $E(\bar{X})=\mu$
@@ -135,3 +146,10 @@ where $marginOfError=c\times(standardDeviationOfStatistic)$
 |99%|2.58|
 
 
+## T-Distribution
+
+$T\sim t(v)$
+
+| Population Statistic | Population distribution | Conditions| Confidence interval|
+|- | - |-|-|
+|$\mu$|Normal or non-normal|Dont know what $\sigma^2$ is. n is small (less than 30). $\bar{X}$ is the sample mean. $s^2$ is the sample variance| $\bar{x}-t(v)\frac{s}{\sqrt{n}},\bar{x}+t(v)\frac{s}{\sqrt{n}}$
