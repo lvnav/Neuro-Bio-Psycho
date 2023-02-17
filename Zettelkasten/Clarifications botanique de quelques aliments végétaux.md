@@ -6,24 +6,52 @@ Tags:
 
 ---
 Les questions à se poser :
-- Quelle partie consommons nous ?
-	- Si le fruit:
-	- Si pas le fruit:
-		- Quelle partie est-ce?
-		- À quo ressemble le fruit
+- famille et genre
+- Est-ce un fruit ?
+	- Si oui:
+	- Si non:
+		- Quelle partie est-ce ?
+		- À quoi ressemble le fruit ?
 - À quoi ressemble la fleur ?
-- Période de croissance
+- Période de consommation en France
 
 ## radis
-- On consomme l'[hypocotyle](https://fr.wikipedia.org/wiki/Hypocotyle)
+-  Brassicaceae, Raphanus
+- Pas un fruit:
+	- On consomme l'[hypocotyle](https://fr.wikipedia.org/wiki/Hypocotyle)
+	- [fruit](https://fr.wikipedia.org/wiki/Radis#/media/Fichier:Raphanus_sativus_004.jpg). Le fruit est une [silique](https://fr.wikipedia.org/wiki/Silique)
 - [la fleur](https://fr.wikipedia.org/wiki/Radis#/media/Fichier:Radijs_bloemen_Raphanus_sativus_subsp._sativus.jpg)
-- Le fruit est une [silique](https://fr.wikipedia.org/wiki/Silique)
 - Pleine saison en France de mars à juin. [source](https://agriculture.gouv.fr/focus-sur-le-radis)
 ## pomme
+- Rosaceae, Malus
+- Est un [faux-fruit](https://fr.wikipedia.org/wiki/Faux-fruit)
+	- On consomme son conceptacle (réceptacle floral), mésocarpe et ses carpelles (pas hyper clair), la peau = exocarpe
+- [fleur](https://fr.wikipedia.org/wiki/Pommier#/media/Fichier:Blooming_apple_tree_in_spring.JPG)
+- Les pommes sont cueillies à partir du mois de juillet pour les plus précoces et jusqu’en novembre pour les plus tardives. [source](https://agriculture.gouv.fr/la-pomme-le-fruit-prefere-des-francais#:~:text=Les%20pommes%20sont%20cueillies%20%C3%A0,au%20long%20de%20l'ann%C3%A9e.)
 ## poire
+- Rosaceae, Pyrus
+- Est un faux-fruit
+	- cf pomme
+ - [fleur](https://fr.wikipedia.org/wiki/Poirier_commun#/media/Fichier:Pyrus_communis_a1.jpg)
+- L’automne est la saison la plus propice pour déguster les poires. [source](https://agriculture.gouv.fr/des-lautomne-mise-tout-sur-la-poire#:~:text=L'automne%20est%20la%20saison,plusieurs%20mois%20en%20chambre%20froide.)
 ## tomate
+- Solanaceae, Solanum
+- est un fruit (j'ai vu [baie](https://fr.wikipedia.org/wiki/Baie_(botanique)) même)
+- [fleur](https://fr.wikipedia.org/wiki/Tomate#/media/Fichier:Fleurtomate.jpg)
+- La pleine saison est en juin, mais on en trouve sur les étals de mai à septembre. [source](https://agriculture.gouv.fr/la-tomate-star-de-lete) 
 ## navet
+- Brassicaceae, Brassica
+- Pas un fruit
+	- On consomme l'hypocotyle
+	- Pas d'image du fruit. Est une silique
+- [fleur](https://fr.wikipedia.org/wiki/Navet#/media/Fichier:Brassica_rapa_closeup.jpg)
+- Le navet pousse donc deux fois dans l'année, au printemps, où l'on trouve de délicieux navets primeurs, et à l'automne et au début de l'hiver, où sont cultivés des navets cueillis à maturité. [source](http://www.vedura.fr/guide/legumes/navet)
 ## pomme de terre
+- Solanaceae, Solanum
+- Pas un fruit
+	- On comsomme le [tubercule](https://fr.wikipedia.org/wiki/Tubercule)
+	 - [fruit](https://fr.wikipedia.org/wiki/Pomme_de_terre#/media/Fichier:Solanum_tuberosum_004.JPG) pas comestible. Est une baie
+ - Les première pommes de terre primeur peuvent être récoltées dès le mois de mars jusqu'en juillet. Les pommes de terre de conservation se récoltent de juillet à mars. [source](http://www.vedura.fr/guide/legumes/pomme-terre)
 ## topinambourg
 ## carotte
 ## courgette
@@ -40,6 +68,8 @@ Les questions à se poser :
 ## fraise
 ## pastèque
 ## framboise
+## noix
+## mûres
 
 ---
 # References

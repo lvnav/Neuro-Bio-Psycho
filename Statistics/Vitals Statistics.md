@@ -153,3 +153,5 @@ $T\sim t(v)$
 | Population Statistic | Population distribution | Conditions| Confidence interval|
 |- | - |-|-|
 |$\mu$|Normal or non-normal|Dont know what $\sigma^2$ is. n is small (less than 30). $\bar{X}$ is the sample mean. $s^2$ is the sample variance| $\bar{x}-t(v)\frac{s}{\sqrt{n}},\bar{x}+t(v)\frac{s}{\sqrt{n}}$
+
+## Hypothesis testing
