@@ -49,14 +49,26 @@ Les questions à se poser :
 ## pomme de terre
 - Solanaceae, Solanum
 - Pas un fruit
-	- On comsomme le [tubercule](https://fr.wikipedia.org/wiki/Tubercule)
+	- On consomme le [tubercule](https://fr.wikipedia.org/wiki/Tubercule)
 	 - [fruit](https://fr.wikipedia.org/wiki/Pomme_de_terre#/media/Fichier:Solanum_tuberosum_004.JPG) pas comestible. Est une baie
+ -  [fleur](https://fr.wikipedia.org/wiki/Pomme_de_terre#/media/Fichier:Potato_flowers.jpg)
  - Les première pommes de terre primeur peuvent être récoltées dès le mois de mars jusqu'en juillet. Les pommes de terre de conservation se récoltent de juillet à mars. [source](http://www.vedura.fr/guide/legumes/pomme-terre)
-## topinambourg
+## topinambour
+- Asteraceae, Helianthus
+- Pas un fruit
+	- On consomme le tubercule
+	- [fruit](http://www.naturescene.net/photos/Helianthus%20tuberosus%20fruit.jpg). (pas d'info sur wikipédia)
+- Novembre à Mars [source](https://jardinage.lemonde.fr/dossier-490-topinambour-legume.html)
 ## carotte
+- Apiaceae, Daucus
+- Pas un fruit
+	- On consomme la [racine pivotante](https://jardinage.lemonde.fr/dossier-490-topinambour-legume.html)
+	- [fruit](https://fr.wikipedia.org/wiki/Carotte#/media/Fichier:Starr-131216-2782-Daucus_carota_subsp_sativus-seedhead-Hawea_Pl_Olinda-Maui_(24932883420).jpg) pas comestible. Est un [diakène](https://fr.wikipedia.org/wiki/Ak%C3%A8ne)
+- [fleur](https://fr.wikipedia.org/wiki/Carotte#/media/Fichier:Daucus_carota_flowers,_peen_'Napoli'.jpg)
+- La carotte de saison : elle est disponible **de juillet à octobre** ; La carotte de garde : elle est sur les étals d'octobre à mars. [source](https://agriculture.gouv.fr/carotte-chaque-categorie-sa-saisonnalite)
 ## courgette
 ## salade
-## comcombre
+## concombre
 ## orange/clémentine/mandarine
 ## banane
 ## kiwi

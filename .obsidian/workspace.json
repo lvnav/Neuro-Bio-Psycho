@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8f5ab2ba284250",
+        "id": "b29234655e67bb05",
         "type": "tabs",
         "children": [
           {
-            "id": "898430d3e4b65f93",
+            "id": "91aa85318c161706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Vitals Statistics.md",
+                "file": "Zettelkasten/Clarifications botanique de quelques aliments végétaux.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "df5b6e9fe66927aa",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Vitals Statistics.md",
+                "file": "Zettelkasten/Clarifications botanique de quelques aliments végétaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Vitals Statistics.md",
+                "file": "Zettelkasten/Clarifications botanique de quelques aliments végétaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Vitals Statistics.md"
+                "file": "Zettelkasten/Clarifications botanique de quelques aliments végétaux.md"
               }
             }
           }
@@ -159,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "898430d3e4b65f93",
+  "active": "91aa85318c161706",
   "lastOpenFiles": [
+    "Statistics/Vitals Statistics.md",
     "Zettelkasten/Clarifications botanique de quelques aliments végétaux.md",
     "Zettelkasten/Comparatif des moyens de reproduction du vivant.md",
-    "Statistics/Vitals Statistics.md",
     "Zettelkasten/Behavioral evolution.md",
     "Anatomy and Physiology/Les tissus.md",
     "Files/tight-junction.svg",

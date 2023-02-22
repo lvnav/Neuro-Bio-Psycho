@@ -85,12 +85,6 @@ Variance: $\lambda$
 
 Can be approximated by Normal when $\lambda > 15$ (don't forget continuous correction)
 
-## Chi 2 
-
-$$\chi^2_\alpha(\nu) = \Sigma \frac{(O-E)^2}{E}$$
-$\nu = (numberOfClasses) - (numberOfRestrictions)$
-$\alpha=testSignificance$
-
 ## Distribution d'échantillons de proportions(Ps)
 
 Espérance: $E(P_s)=p$
@@ -155,3 +149,38 @@ $T\sim t(v)$
 |$\mu$|Normal or non-normal|Dont know what $\sigma^2$ is. n is small (less than 30). $\bar{X}$ is the sample mean. $s^2$ is the sample variance| $\bar{x}-t(v)\frac{s}{\sqrt{n}},\bar{x}+t(v)\frac{s}{\sqrt{n}}$
 
 ## Hypothesis testing
+!!!!!!!!!!!S'ENTRAINER !!!!!!!!!
+
+## Chi 2 
+$$\chi^2_\alpha(\nu) = \Sigma \frac{(O-E)^2}{E}$$
+$O$ = observed frequencies
+E = expected frenquencies
+
+$\nu = (numberOfClasses) - (numberOfRestrictions)$
+$\alpha=testSignificance$
+
+In a test for independence for two variables, if your contingency table has h rows and k columns:
+$ν = (h – 1) × (k – 1)$
+
+| Distribution | Conditions | $\nu$ |
+|- | - |-|
+|Binomial|You know what p is.<br/><br/> You don't know what p is, and you have to estimate it from the observed frequencies|$v=n-1$<br/><br/>$v=n-2$|
+|Poisson|You know what $\lambda$ is.<br/><br/> You don't know what $\lambda$ is, and you have to estimate it from the observed frequencies|$v=n-1$<br/><br/>$v=n-2$|
+|Normal|You know what $\mu$ and $\sigma^2$ is.<br/><br/> You don't know what $\mu$ is and $\sigma^2$ are, and you have to estimate it from the observed frequencies|$v=n-1$<br/><br/>$v=n-3$|
+
+
+$\chi^2$ can be used to testing goodness of fit and independence (with table of contingency)
+
+## Correlation and regression
+
+To make a regression we need to find the equation of the line = $y=a+bx$
+SSE = sum of squared errors = $\Sigma(y-\hat{y})^2$
+
+$$b=\frac{\Sigma((x-\bar{x})(y-\bar{y}))}{\Sigma(x-\bar{x})^2}$$
+and 
+$$a = \bar{y}-b\bar{x}$$
+where $\bar{x}$ = mean of $x$ (ditto for $y$)
+
+
+Correlation
+$$r=\frac{bs_x}{s_y}$$
