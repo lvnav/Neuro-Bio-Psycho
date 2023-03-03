@@ -67,7 +67,21 @@ Les questions à se poser :
 - [fleur](https://fr.wikipedia.org/wiki/Carotte#/media/Fichier:Daucus_carota_flowers,_peen_'Napoli'.jpg)
 - La carotte de saison : elle est disponible **de juillet à octobre** ; La carotte de garde : elle est sur les étals d'octobre à mars. [source](https://agriculture.gouv.fr/carotte-chaque-categorie-sa-saisonnalite)
 ## courgette
+- Cucurbitaceae, Cucurbita
+- Est un fruit
+- [fleur](https://fr.wikipedia.org/wiki/Courgette#/media/Fichier:Courgette_Cucurbita_pepo_2.jpg)
+- La récolte de la courgette débute **entre 50 et 90 jours après la plantation** des plants de courgette. En général, la période de récolte s'étend entre mai et les premières gelées **selon le climat, la période de semis et la variété**. [source](https://www.detentejardin.com/a-faire/jardiner-en-juillet/cueillir-les-jeunes-courgettes-390)
+
 ## salade
+- Désigne diverses sortes de plantes au sein de plusieurs familles:
+	- Asteraceae : les chicorées (genre: cichorium) , laitue (genre: Lactuca), pissenlits (genre: Taraxacum)
+	- Brassicaceae : le cresson (plusieurs genres différents: Lepidium, Nasturtium), la roquette (genre : Eruca)
+	- Valerianaceae : mâche (genre: Valerianella)
+	- Portulacaceae : pourpier (genre: Portulaca)
+- N'est pas un fruit
+	- On consomme les feuilles
+- [fleur de laitue](https://fr.wikipedia.org/wiki/Laitue_cultiv%C3%A9e#/media/Fichier:Lactuca_sativa_blooming_03.JPG)
+- 
 ## concombre
 ## orange/clémentine/mandarine
 ## banane
