@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b29234655e67bb05",
+        "id": "59a78f4ec87242a2",
         "type": "tabs",
         "children": [
           {
-            "id": "91aa85318c161706",
+            "id": "1609ea455fae1b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
+                "file": "Enquêtes/Clarifications phylogénétiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
+                "file": "Enquêtes/Clarifications phylogénétiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
+                "file": "Enquêtes/Clarifications phylogénétiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enquêtes/Comparatif des moyens de reproduction du vivant.md"
+                "file": "Enquêtes/Clarifications phylogénétiques.md"
               }
             }
           }
@@ -159,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587c6da5d30e5889",
+  "active": "1609ea455fae1b73",
   "lastOpenFiles": [
     "Enquêtes/Clarifications phylogénétiques.md",
+    "Enquêtes/Clarifications des grandes étapes du développement embryonnaire.md",
+    "Lectures/La machinerie de la vie.md",
+    "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
     "Enquêtes",
     "Enquêtes/Clarifications concernant la faune et la flore des différentes ères géologiques.md",
     "Enquêtes/Clarifications botaniques de quelques aliments végétaux.md",
     "Statistics/Vitals Statistics.md",
-    "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
     "Zettelkasten/Behavioral evolution.md",
     "Anatomy and Physiology/Les tissus.md",
     "Files/tight-junction.svg",

@@ -51,14 +51,37 @@ Si maintenant je vais jusqu'aux humains:
 	- Endostyle (qui devient la thyroide chez certaines espèces) = organe qui permet de filter l'eau pour en extraire de la nourriture
 	- Fentes pharyngées = organe qui permet de filtrer pour l'eau pour en extraire de la nourriture (différent de l'endostyle)
 	- queue post-anal
-- Craniata
-	- 
-- Vertebrata
-- Gnathostomata
-- Teleostomi
-- Euteleostomi
-- Sacopterygii
-- Dipnotetrapodomorpha
+- [Craniata](https://fr.wikipedia.org/wiki/Craniata_(Chordata))
+	- des plaques dentigères ou une mâchoire
+	- Apparition d'un crâne, osseux ou cartilagineux, portant les capsules olfactives, optiques et auditives
+	- Apparition d'une crête neurale
+	- Présence de placodes chez l'embryon (épaississement de la peau de la tête pour donner l'oreille interne)
+- [Vertebrés](https://fr.wikipedia.org/wiki/Vert%C3%A9br%C3%A9s) (Vertebrata)
+	-  Possèdent un squelette osseux ou cartilagineux interne
+	- Présence de 5 vésicules céphaliques lors de la formation de l'encépale
+	- Présence de crêtes neurales
+-  [Gnathostomes](https://fr.wikipedia.org/wiki/Gnathostomata_(Vertebrata)) (Gnathostomata)
+	- Présence de mâchoires cartilagineuses
+	- 3 canaux semi-circulaires dans l'oreille interne au lieu de deux
+	- Certaines fibres nerveuses sont entourés de myéline
+	- L'hémoglobine comporte quatre chaînes d'acides aminés
+- [Téléostomes](https://en.wikipedia.org/wiki/Teleostomi) (Teleostomi - deprecated)
+- [Eutéléostomes](https://fr.wikipedia.org/wiki/Euteleostomi) (Euteleostomi)
+	- Subit une Ossification endochondrale durant le développement embryonnaire
+	- Issus d'un ancêtre ayant des nageoires
+- [Sarcoptérygiens](https://fr.wikipedia.org/wiki/Sarcopterygii) (Sacopterygii)
+	- Joint intracrânial: fissure divisant le crâne en deux moitiés, antérieure et postérieure
+	- Muscles pouvant mouvoir les rayons osseux de la nageoire indépendamment les uns des autres
+	- Émail vrai sur les dents
+	- Poumons deviennent fonctionnels et muni d'alvéoles
+- [Rhipidistiens](https://fr.wikipedia.org/wiki/Rhipidistia) (Dipnotetrapodomorpha ou Rhipidistia)
+	-   Une nageoire dorsale en forme de voile en éventail.
+	-   La présence de [dentine](https://fr.wikipedia.org/wiki/Dentine "Dentine") et d'[émail](https://fr.wikipedia.org/wiki/%C3%89mail_dentaire "Émail dentaire") sur les dents.
+	-   L'absence de contact entre maxillaire et [préoperculaire](https://fr.wikipedia.org/wiki/Opercule_(poisson) "Opercule (poisson)").
+	-   La présence d'un large [quadratojugal](https://fr.wikipedia.org/wiki/Quadratojugal "Quadratojugal").
+	-   La présence d'une jonction postorbitale du supraorbital et des lignes sensorielles infraorbitales.
+	-   L'existence de seulement trois coronoïdes.
+	-   La présence d'une cavité latérale dans la capsule nasale.
 - Tetrapoda
 - Amniota
 - Mammalia
