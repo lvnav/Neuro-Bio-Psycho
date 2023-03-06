@@ -114,7 +114,33 @@ Les cellules manipulent différents types d'énergies:
 
 ### Protection et perception
 
+# Les molécules dans les cellules: Escherichia Coli
 
+- Découverte par Théodor Escherich en 1885
+
+## La barrière protectrice
+- Bicouche lipidique composée de de lipopolysacchardies (notre système immunitaire se base sur ça pour les reconnaitres)
+- Membrane externe perméable aux "gros" éléments via des porines
+- Espace intermembranaire = périplasme. À ce niveau, la membrane externe est soutenue par un couche de peptidoglycanes. C'est en détruisant des enzymes responsables de la synthêse de ces peptidoglycanes que la péniciline détruit les bacteries (à proprement parler ces dernières explosent quand le support vient à manquer)
+- Dans cette espace, des enzymes commencent à digérer les plus grosses molécules, d'autres enzymes neutralisent les éléments toxiques pour la cellule
+- La membrane interne est sélective. Elle ne laisse rentrer que ce nécéssaire à sa survie
+## Construction des nouvelles protéines
+- Grand ADN circulaire condensé au niveau du nucléoide (attention pas de noyau)
+- Présence de plasmides (petits ADN circulaires facilement échangeables entre les cellules. Utile notamment pour partager de l'ADN qui codera des protéines capable de détruire des antibiotiques)
+- La réplication commence avant que le cycle précédent (de réplication) soit fini ! Ça signifique qu'au moment de la duplication de la cellule, cette dernière a déjà commencer à répliquer son ADN
+
+## Alimentation de la cellule
+- Un quart des molécules dans la cellule est dédié à la production d'énergie
+- Capacité à dynamiquement produire des enzymes en fonction des ressources environnantes
+- via glycolyse et cycle de l'acide citrique
+
+## Propulseurs cellulaires
+- Présence de flagelles 
+- Capteur présent pour scanner les environs et capter si de la nourriture est proche
+- Se dirige vers la nature, rescan et ainsi de suite.
+- Si pas de nourriture proche mouvement au hasard
+- On appelle culbute le changement de direction due à la désynchronisation de la rotation des flagelles
+ 
 
 
 

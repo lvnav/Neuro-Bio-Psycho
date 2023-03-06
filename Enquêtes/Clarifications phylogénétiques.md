@@ -7,7 +7,7 @@ Tags:
 ---
 Basé sur la [lifemap](https://lifemap-ncbi.univ-lyon1.fr/) en version ncbi
 
-Parfois des caractéristiques supplémentaires sont associées aux groupes. Généralement un "non exhastif" est spécifié.
+Parfois des caractéristiques supplémentaires sont associées aux groupes. Généralement un "non exhaustif" est spécifié.
 
 Les animaux sont des :
 - [Eucaryotes](https://fr.wikipedia.org/wiki/Eukaryota) (par opposition aux [procaryotes](https://fr.wikipedia.org/wiki/Prokaryota))
@@ -99,7 +99,7 @@ Si maintenant je vais jusqu'aux humains:
 - Homo
 - Homo sapiens
 
-Il semblerait qu'à chaque fois je cherche les synapomorphies (caractéristiques propres d'une clade)
+Il semblerait qu'à chaque fois je cherche les synapomorphies (caractéristiques propres d'un clade)
 
 ---
 # References
