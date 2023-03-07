@@ -1,4 +1,4 @@
-:202303051159
+	:202303051159
 
 Status: #idea
 
@@ -29,7 +29,7 @@ Analogiquement, les machines moléculaires sont constituées de:
 
 Deux concepts de base pour comprendre les profils chimiques de ces différents constituants:
 - La complémentarité chimique (liaison hydrogène, liaison ionique)
-- L'hydrophobicité / hydrophilie (hydrophile souvent = molécules riches en ozygène et azote vs hydrophobe souvent = riche en atomes de carbone)
+- L'hydrophobicité / hydrophilie (hydrophile souvent = molécules riches en oxygène et azote vs hydrophobe souvent = riche en atomes de carbone)
 
 
 ## Structure chimique
@@ -119,11 +119,12 @@ Les cellules manipulent différents types d'énergies:
 - Découverte par Théodor Escherich en 1885
 
 ## La barrière protectrice
-- Bicouche lipidique composée de de lipopolysacchardies (notre système immunitaire se base sur ça pour les reconnaitres)
+- Bicouche lipidique composée de lipopolysacchardies (notre système immunitaire se base sur ça pour les reconnaitres)
 - Membrane externe perméable aux "gros" éléments via des porines
-- Espace intermembranaire = périplasme. À ce niveau, la membrane externe est soutenue par un couche de peptidoglycanes. C'est en détruisant des enzymes responsables de la synthêse de ces peptidoglycanes que la péniciline détruit les bacteries (à proprement parler ces dernières explosent quand le support vient à manquer)
+- Espace intermembranaire = périplasme. À ce niveau, la membrane externe est soutenue par un couche de peptidoglycanes. C'est en détruisant des enzymes responsables de la synthèse de ces peptidoglycanes que la péniciline détruit les bacteries (à proprement parler ces dernières explosent quand le support vient à manquer)
 - Dans cette espace, des enzymes commencent à digérer les plus grosses molécules, d'autres enzymes neutralisent les éléments toxiques pour la cellule
-- La membrane interne est sélective. Elle ne laisse rentrer que ce nécéssaire à sa survie
+- La membrane interne est sélective. Elle ne laisse rentrer que le nécéssaire à sa survie
+
 ## Construction des nouvelles protéines
 - Grand ADN circulaire condensé au niveau du nucléoide (attention pas de noyau)
 - Présence de plasmides (petits ADN circulaires facilement échangeables entre les cellules. Utile notamment pour partager de l'ADN qui codera des protéines capable de détruire des antibiotiques)

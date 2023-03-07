@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1609ea455fae1b73",
+            "id": "3371acbab29ea773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/La machinerie de la vie.md",
+                "file": "Zettelkasten/Programme L1BG2S.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "df5b6e9fe66927aa",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/La machinerie de la vie.md",
+                "file": "Zettelkasten/Programme L1BG2S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/La machinerie de la vie.md",
+                "file": "Zettelkasten/Programme L1BG2S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/La machinerie de la vie.md"
+                "file": "Zettelkasten/Programme L1BG2S.md"
               }
             }
           }
@@ -159,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1609ea455fae1b73",
+  "active": "3371acbab29ea773",
   "lastOpenFiles": [
-    "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
-    "Lectures/La machinerie de la vie.md",
     "Enquêtes/Clarifications phylogénétiques.md",
+    "Zettelkasten/Programme L1BG2S.md",
+    "Lectures/La machinerie de la vie.md",
+    "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
     "Enquêtes/Clarifications des grandes étapes du développement embryonnaire.md",
     "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
     "Enquêtes",
