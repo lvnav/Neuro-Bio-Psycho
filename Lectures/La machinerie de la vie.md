@@ -143,7 +143,60 @@ Les cellules manipulent différents types d'énergies:
 - On appelle culbute le changement de direction due à la désynchronisation de la rotation des flagelles
  
 
+## Cellule humaine : l'avantage des compartiments
 
+Les différents compartiments:
+- Noyau
+- Mitochondie
+- Appareil de Golgi
+- Réticulum endoplasmique(rugueux/lisse)
+
+
+## Corps humain : Les avantages de la spécialisation
+
+### Infrastructure de soutien
+cytosquelette composé de:
+- actine (5% de la masse de la cellule)
+- filaments intermédiaires
+- microtubules
+	- Utliser comme rails par des dynéines et des kynésines
+
+Différents types de jonction:
+- Jonction communicante serrée
+	- via des connexons (protéines)
+- Jonction adhérente solide
+	- via des cadhérines (protéines)
+
+Pour former un muscle ou un organe les "simples" jonctions ne suffisent pas. Les cellules sont liées entre elles par la matrice extracellulaire.
+
+Matrice extracellulaire principalement composée de protéines de collagène. 
+
+
+### Communication
+
+La jonction communicante serrée permet aux cellules de communiquer entre elles via un pore. Si le niveau de calcium d'une des deux cellules augmente brusquement (souvent signe de maladie ou domage) le connexon peut être fermé.
+
+Des messages peuvent être transmis entre cellules voisines via des cytokines. Les cellules par ce biais peuvent communiquer pour déterminer si le temps est à la croissance ou au repos. De plus les cytokines peuvent informer d'éventuels danger (interféron alpha notamment). La cellule informée peut alors produire des enzymes pour lutter contre l'ennemie en attendant la réponse immunitaire.
+
+Les cellules peuvent également communiquer sur de longues distances via des hormones (via la circulation sanguine)
+
+
+### Trois types de tissus et leur spécialisation
+#### Le muscle
+
+l'unité fonctionnelle du muscle est le sarcomère. Le sarcomère est composé de:
+- myosine (consomme l'ATP)
+- titine (donne la structure élastique)
+- actine 
+
+La contraction musculaire est controlée par le niveau de calcium. Ce dernier est stocké dans des compartiments spéciaux et relâcher quand la cellule se contracte
+
+#### Le sang
+
+Le sang est constitué de:
+- 45% de globules rouges remplis d'hémoglobine.
+- diverses variétés de globules blancs (1/700 globules rouges)
+- plasma (solution concentrée de protéines et fragments de cellules)
 
 
 

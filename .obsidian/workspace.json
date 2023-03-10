@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3371acbab29ea773",
+            "id": "849279964327892e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Programme L1 BG2S.md",
+                "file": "Lectures/La machinerie de la vie.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "df5b6e9fe66927aa",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Programme L1 BG2S.md",
+                "file": "Lectures/La machinerie de la vie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Programme L1 BG2S.md",
+                "file": "Lectures/La machinerie de la vie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Programme L1 BG2S.md"
+                "file": "Lectures/La machinerie de la vie.md"
               }
             }
           }
@@ -160,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3371acbab29ea773",
+  "active": "849279964327892e",
   "lastOpenFiles": [
     "Enquêtes/Clarifications phylogénétiques.md",
+    "Enquêtes/Histoire de la théorie de l'évolution.md",
     "Zettelkasten/Programme L1 BG2S.md",
     "Lectures/La machinerie de la vie.md",
     "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
