@@ -194,9 +194,28 @@ La contraction musculaire est controlée par le niveau de calcium. Ce dernier es
 #### Le sang
 
 Le sang est constitué de:
-- 45% de globules rouges remplis d'hémoglobine.
+- 45% de globules rouges remplis d'hémoglobine. globule rouge perd son noyau et a une machinerie minimale
 - diverses variétés de globules blancs (1/700 globules rouges)
 - plasma (solution concentrée de protéines et fragments de cellules)
+
+##### fonction de transport
+- globule rouge transporte l'oxygène
+- sérum sanguin transporte graisses et lipides
+- sucres soluble dans l'eau donc facilement transportable
+- acides gras transportés par la sérum-albumine
+
+##### fonction de réparation
+- mécanisme de la coagulation
+##### fonction de réparation
+- La plus grande partie de la machinerie du système immunitaire réside dans le sang
+##### fonction de communication
+transmet les hormones
+
+#### Les nerfs
+
+
+
+
 
 
 

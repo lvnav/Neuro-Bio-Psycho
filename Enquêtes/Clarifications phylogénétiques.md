@@ -82,24 +82,80 @@ Si maintenant je vais jusqu'aux humains:
 	-   La présence d'une jonction postorbitale du supraorbital et des lignes sensorielles infraorbitales.
 	-   L'existence de seulement trois coronoïdes.
 	-   La présence d'une cavité latérale dans la capsule nasale.
-- Tetrapoda
-- Amniota
-- Mammalia
-- Theria
-- Eutheria
-- Boreoeutheria
-- Euarchontoglires
-- Primates
-- Haplorrhini
-- Simiiformes
-- Catarrhini
-- Hominoidea
-- Hominidae
-- Homininae
-- Homo
-- Homo sapiens
+- [Tétrapodes](https://fr.wikipedia.org/wiki/Tetrapoda) (Tetrapoda)
+	- Deux paires de membres chiridiens (2x2 membres locomoteurs)
+- [Amniotes](https://fr.wikipedia.org/wiki/Amniota) (Amniota)
+	- Possèdent un sac amniotique (amnios et chorion/placenta) qui protège l'embryon ou le foetus
+- [Mammifères](https://fr.wikipedia.org/wiki/Mammif%C3%A8re) (Mammalia)
+	- Possèdent des glandes mammaires et nourrissent les jeunes avec du lait
+- [Thériens](https://fr.wikipedia.org/wiki/Theria) (Theria)
+	- Portent leurs petits dans une matrice utérine durant tout ou partie de leur développement (vivipares)
+- [Euthériens](https://fr.wikipedia.org/wiki/Eutheria) (Eutheria)
+	- 3 paires de molairs
+	- pénis non bifide chez mâles et trompes de Fallope débouchant dans une cavité utérine commune
+	- placenta hémochorial
+	- Présence d'un corps calleux dans le cerveau
+- [Boréoeuthériens](https://fr.wikipedia.org/wiki/Boreoeutheria) (Boreoeutheria)
+	- pas d'infos sur wikipédia
+- [Euarchontoglires](https://fr.wikipedia.org/wiki/Euarchontoglires) (Euarchontoglires)
+	- Groupe récent. Aucune synapomorphie recensée sur wikipédia
+- [Primates](https://fr.wikipedia.org/wiki/Primates) (Primates)
+	- Vie arboricole
+	- face réduite mais prognathe(machoires inférieur avancée)
+	- Une seule paire de mamelles
+	- remplacement des griffes par des ongles
+	- pénis pendulaire et testicules protégés par un scrotum
+	- des membres antérieurs et postérieurs pentadactyles
+	- colonne vertébrale comprenant entre 26 et 33 éléments
+	- vulve dissociant l'urètre et le vagin
+	- denture diphyodonte et hétérodonte
+	- vision binoculaire stéréoscopique
+- [Haplorrhiniens](https://fr.wikipedia.org/wiki/Haplorhini) (Haplorrhini)
+	- truffe remplacée par un nez dont les vibrisses ont disparu
+- [Simiformes](https://fr.wikipedia.org/wiki/Simiiformes) (Simiiformes)
+	- Occlusion arrière des orbites oculaires
+- [Catarhiniens](https://fr.wikipedia.org/wiki/Catarrhini) (Catarrhini (du grec cata- = vers le bas et rhinos = nez))
+	- Face courte et verticale
+	- narines rapprochées et séparée par une fine cloison ouvertes vers le bas
+	- organe de Jacobson non fonctionnel
+	- os frontal et sphénoide en contact
+	- os pariétal et zygomatique pas en contact
+	- tube osseux de l'oreille s'étend latéralement
+	- ongles de main et de pied plats
+	- implantation verticale des incisives
+	- vision trichromatique (vert, rouge, bleu)
+- [Hominoïdes](https://fr.wikipedia.org/wiki/Hominoidea) (Hominoidea)
+	- Pas de queue
+	- peu d'informations sur les synapomorphies sur wikipédia
+- [Hominidés](https://fr.wikipedia.org/wiki/Hominidae) (Hominidae)
+	- masse généralement comprise entre 50 et 250 kg
+	- locomotion orthograde
+	- omnivore
+	- gestation de 8-9 mois
+- [Homininés](https://fr.wikipedia.org/wiki/Homininae) (Homininae)
+	- synapomorphies pas clairs sur wikipédia
+- [](https://fr.wikipedia.org/wiki/Homo) (Homo)
+	- bipède
+	- quatres courbures sur la colonne vertébrale
+	- trou occipital avancé à la base du crâne
+	- bassin court et évasé qui permet une meilleure stabilité debout
+	- fémurs obliques
+	- capacité cranienne de plus de 550cm cube
+	- aplatissement de la face par réduction du prognatisme
+	- réduction des muscles de l'appareil masticatoire
+	- réduction de la denture (notamment de la taille des molaires)
+	- présence d'un os hyoide
+	- cage thoracique en forme de tonneau
+	- deux côtes flottantes non rattachées au sternum
+- [Homo sapiens](https://fr.wikipedia.org/wiki/Homo_sapiens) (Homo sapiens)
+	- Locomotion exclusivement bipède
+	- cerveau plus volumineux
+	- pilosité moins développée
+	- menopause
 
 Il semblerait qu'à chaque fois je cherche les synapomorphies (caractéristiques propres d'un clade)
+
+De manière générale wikipédia n'est pas une source cohérente pour la recherche de synapomorphies
 
 ---
 # References
