@@ -50,6 +50,8 @@ $$P(A|B)=\frac{P(A \cap B)}{P(B)}$$
 $$P(A \cap B) = P(A|B) \times P(B)$$
 $$P(B \cap A) = P(B|A) \times P(A)$$
 
+Si A et B sont indépendants : $P(A|B) = P(A)$
+
 ## Permutations
 sensible à l'ordre
 $$ ^nP_r = \frac{n!}{(n-r)!}$$
