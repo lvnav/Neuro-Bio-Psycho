@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59a78f4ec87242a2",
+        "id": "5b50c72a1b62cbe0",
         "type": "tabs",
         "children": [
           {
-            "id": "c676fd1200944ff1",
+            "id": "395a3623b9f3cb54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c676fd1200944ff1",
+  "active": "395a3623b9f3cb54",
   "lastOpenFiles": [
     "Enquêtes/Clarifications des grandes étapes du développement embryonnaire.md",
-    "Enquêtes/Clarifications phylogénétiques.md",
+    "Files/blastocyste.png",
+    "Files/embryonic-development-first-week.png",
     "Chimie/Chemistry Atom First 2e.md",
     "Statistics/Vitals Statistics.md",
+    "Enquêtes/Clarifications phylogénétiques.md",
     "Chimie",
     "Enquêtes/Clarifications concernant la faune et la flore des différentes ères géologiques.md",
     "Enquêtes/Clarifications botaniques de quelques aliments végétaux.md",

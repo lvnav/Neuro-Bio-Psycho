@@ -25,7 +25,42 @@ Embryogénèse d'une espèce animale chordée :
 		- fragmentation du mésoblaste. Les lames mésodermiques gauche et droite s'étendent de manière continue dd'un bout à l'autre de l'embryon. Ces lames vont se découper en une série de segments successifs
 - histogenèse
 	- Formation des tissus par différenciation des cellules embryonnaires
-	- 
+
+## Embryogénèse humaine
+
+Dans un premier temps je parle des processus internes à la maturation du zygote
+
+Dans un second temps je parlerais du déplacement du zygote dans l'appareil reproducteur
+
+### Fécondation
+
+### Segmentation : de l'oeuf à la morula
+
+L'oeuf fécondé subit une succession de division cellulaires au cours de sa migration depuis la trompe vers l'utérus. La succession de divisions s'appelle la segmentation/clivage (les blastomères ne subissent pas les phases de croissance cellulaire G1 et G2). 
+
+J1: 2 blastomèresa - a
+J2: 4 blastomères - b
+J3: 6-8 blastomères - c
+J4: 16-32 blastomères - Morula - d|e
+![[embryonic-development-first-week.png]]
+
+=> À la fin du 4ème jour, certaines cellules de la morula subissent une apoptose. Ainsi, par ce phénomène de cavitation, apparaît une cavité à contenu liquidien: le futur blastocèle
+
+La membrane externe s'appelle la zone pellucide
+
+### Blastulation
+
+Se produit aux alentours du jour 4
+
+Au cours de la blastulation, l'embryon va s'invaginer. L'espace issue de cette invagination s'apelle le blastocèle. De plus les blastomères vont se différencier en deux grandes populations. La bordure étant le trophoblaste. À un des pôles (et à l'intérieur du trophectoblaste) se forme une accumulation de blastomère qui s'appelle embryoblaste.
+![[blastocyste.png]]
+1. Blastocèle
+2. Trophoblaste
+3. Membrane pellucide
+4. Embryoblaste
+
+### Gastrulation
+
 
 
 

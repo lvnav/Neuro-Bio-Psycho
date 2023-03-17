@@ -21,5 +21,8 @@ Les éléments peuvent être classés en 3 catégories:
 
 $$density = \frac{mass}{volume}$$
 
+
+Ménisque en chimie = un liquide dans un contenant n'est pas parfaitement plat. Le ménisque est la partie convexe ou concave du liquide à la surface
+
 ---
 # References
