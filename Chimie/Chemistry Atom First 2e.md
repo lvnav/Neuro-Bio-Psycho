@@ -55,6 +55,7 @@ $m = \frac{\Delta y}{\Delta x} = \frac{212 \degree F - 32 \degree F}{100 \degree
 $n = \frac{5 \degree C}{9 \degree F}$
 
 
+It is not uncommon for the beginner to be confused about the difference between a simple substance, a complex substance, and a mixture. Let us repeat, again, that a _simple substance consists of identical molecules_ made up of only one element (type of atom). _A complex substance also consists of identical molecules_, but those molecules are made up of two or more different elements. _A mixture consists of different molecules_**.** [source](https://chemistryfromscratch.org/1-4)
 
 ---
 # References

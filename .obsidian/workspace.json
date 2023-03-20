@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "df5b6e9fe66927aa",
@@ -162,13 +161,15 @@
   },
   "active": "897eb69f0d9f5799",
   "lastOpenFiles": [
+    "Files/cavities.png",
+    "Files/body-plans.jpg",
     "Biologie/Biology 2e.md",
+    "Chimie/Chemistry Atom First 2e.md",
     "Quiz/Réponses/Biologie - 1.md",
     "Quiz/Réponses/Embryologie - 1.md",
     "Quiz/Réponses/Chimie - 1.md",
     "Biologie",
     "Untitled",
-    "Chimie/Chemistry Atom First 2e.md",
     "Enquêtes/Clarifications des grandes étapes du développement embryonnaire.md",
     "Quiz/Questions/Embryologie - 1.md",
     "Quiz/Réponses",
