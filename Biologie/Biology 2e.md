@@ -105,7 +105,7 @@ Propriétés:
 ##### Tissus conjonctifs
 
 Sont faits d'une matrice constituée de cellules vivantes et de substance non vivante(**substance fondamentale**).
-La substance fondamentale est constitué de substance organique (généralement une protéine) et de substance inorganique(généralement un minéral ou de l'eau). La cellule principale d'u
+La substance fondamentale est constitué de substance organique (généralement une protéine) et de substance inorganique(généralement un minéral ou de l'eau). 
 
 Est une matrice constitué de :
 - substance fondamentale 
@@ -119,7 +119,6 @@ Est une matrice constitué de :
 	- Motile
 	- Capable de mitose
 - Macrophages (parfois)
-- Lymphocytes (parfois)
 - Leukocytes (parfois)
 
 ? La densité de la matrice est en corrélation négative avec la proportion de fibres et cellules ?
@@ -134,8 +133,16 @@ Est une matrice constitué de :
 |blood|red blood cells, white blood cells|none|blood|
 
 
+##### Tissus musculaires
+|Type of Muscle|Striations|Nuclei|Control|Location|
+|-|-|-|-|-|
+|smooth|no|single, in center|involuntary|visceral organs|
+|skeletal|yes|many, at periphery|voluntary|skeletal muscles|
+|cardiac|yes|single, in center|involuntary|heart|
 
 
+##### Tissus nerveux
 
----
-# References
+
+##### Homéostasis
+

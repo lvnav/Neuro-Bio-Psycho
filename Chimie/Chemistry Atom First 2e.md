@@ -130,5 +130,88 @@ En sortie on aura un graphique où x représente des masses en amu et en y l'abo
 ![[mass-spectrometry.jpg]]
 
 
----
-# References
+
+#### Formules chimiques
+
+Il y a plusieurs façons de représenter une molécule
+
+- (a) Formule moléculaire
+- (b) Formule structurelle
+- (c) Formule "boules et bâtons"
+- (d) Formule "remplissage d'espace"
+- Formule empirique
+	- S'obtient en divisant chaque quantités d'atomes de la formule moléculaire par le plus petit dénominateur commun. Ex : $C_2H_4O_2 \space se \space divise \space par \space 2 => CH_2O$
+
+![[formulas.jpg]]
+
+Un isomère est une molécule qui a la même formule chimique qu'une autre molécule mais:
+- S'il n'a pas la même structure c'est un isomère structurel (structural isomer)
+- Si l'orientation dans l'espace des atomes est différent on parle d'isomère spatial (spatial isomers)
+
+
+![[isomere.jpg]]
+
+
+Caractérisations des différents éléments du tableau periodique:
+- Une colonne est un groupe
+- Une ligne est une période
+- 18 groupes
+- 7 périodes
+Les propriétés des éléments sont des fonctions périodiques de leurs nombre atomique
+
+![[periodic-table-explained.jpg]]
+
+Quelques propriétés remarquables:
+- Les metaux alcalino-terreux forment des composés d'un élément et 2 hydrogènes
+- L'hydrogène a des propriétés à la fois du groupe 1 et 17
+
+
+#### Composés ioniques et moléculaires
+
+Un ion peut être monoatomique ou polyatomique. les oxyanions sont des ions polyatomiques dont au moins un des atomes est un oxygène. 
+
+Pour caractériser les composés ionique on utilise le suffixe **-ide** qu'on applique aux non-métaux (le non-métal est toujours écrit en second)
+
+Pour caractériser les ions polyatomiques on utilise des suffixes et préfixes se basant sur la quantité d'oxygène. Du plus vers le moins
+- per-\[infixe\]-ate
+- -ate
+- -ite
+- hypo-\[infixe\]-ite
+
+<center>Common polyatomics ions</center>
+![[Pasted image 20230326124509.png]]
+
+Quand un atome perd un éléctron(un métal) au profit d'un autre atome(un non-metal), un lien ionique peut se former. On parle alors de composé ionique. Les composés ioniques fondent et bouillent à de hautes températures
+
+Quand deux atomes partagent un électron plutôt qu'ils l'échangent, on parle de lien covalent. On parle alors de molécules ! Généralement il s'agit de nonmétaux
+
+
+#### Nomenclature en anglais
+
+On parle ici que des composés inorganiques.
+Plusieurs questions : 
+- Le composé est ionique ou organique ?
+	- ionique:
+		- le métal forme des ions des ions d'un seul type (charge fixe) ou plusieurs (charge variable)?
+		- L'ion est monoatomique ou polyatomique?
+	- covalent:
+		- Le composé contient de l'hydrogène?
+		- Le composé contient de l'oxygène?
+
+##### Composés contenant uniquement des ions monoatomiques:
+\[cation\]\[anion\]\[-ide\]
+$NaCl$ = \[sodium\] \[chlor\] \[-ide\]
+
+##### Composés contenant des ions polyatomiques:
+\[cation\](\[anion\]\[-ide\] | nom de l'ion polyatomique)
+$KC_2H_3O_2$ = \[potassium\] \[acetate\]
+
+##### Composés contenant un ion metal avec une charge variable
+\[cation\]\[anion\]\[-ide\] 
+$FeCl_2$ = \[iron(II)\] \[chloride\]
+
+##### Ions hydratés
+\[cation\](\[anion\] \[-ide\]| ion polyatomique) \[préfixe 1-10 en latin-hydrates\]
+
+$Na_2CO_3∙10H_2O$ Sodium carbonate decahydrate 
+
