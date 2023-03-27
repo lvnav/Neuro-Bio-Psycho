@@ -211,7 +211,38 @@ $KC_2H_3O_2$ = \[potassium\] \[acetate\]
 $FeCl_2$ = \[iron(II)\] \[chloride\]
 
 ##### Ions hydratés
-\[cation\](\[anion\] \[-ide\]| ion polyatomique) \[préfixe 1-10 en latin-hydrates\]
+\[cation\](\[anion\] \[-ide\]| ion polyatomique) \[préfixe 2-10 en latin-hydrates\]
 
-$Na_2CO_3∙10H_2O$ Sodium carbonate decahydrate 
+$Na_2CO_3∙10H_2O$ = Sodium carbonate decahydrate 
+
+
+##### Composés en liaison covalente (molécules)
+\[more metallic element\] \[préfixe 2-10 en latin\]\[more non metallic element\]\[-ide\]
+
+- more metallic = more to left or to bottom
+- more nonmetallic = more to right or to top
+
+$IF_7$ = iodine heptafluoride
+
+###### Les acides binaires
+Contiennent de l'hydrogène
+
+\[hydro-\]\[nonmetal\]\[-ic\]
+
+$HF(aq)$ = hydrofluoric acid
+
+
+##### Les Oxoacides (oxyacids)
+Contiennent de l'oxygène, de l'hydrogène et au moins un autre élément et sont liés de manière à conferer des propriétés acides au composé. Les oxoacides  sont constitués d'hydrogème combinés avec un ion polyatomique contenant de l'oxygène.
+
+Pour les nommés:
+1. Ne pas dire l'hydrogène
+2. Commencer avec la racine de l'anion
+3. Remplacer -ate avec -ic ou -ite avec -ous
+4. Ajouter "acid"
+
+ex:
+|Formule|Nom de l'anion|Nom de l'acide|
+|-|-|-|
+|$HC_2H_3O_2$|acetate|acetic acid|
 
