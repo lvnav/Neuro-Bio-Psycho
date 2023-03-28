@@ -146,3 +146,51 @@ Est une matrice constitué de :
 
 ##### Homéostasis
 
+/!\ Ce qui suit est un rappel à posteriori du cours et non pas le cours lui-même /!\
+Il s'agit de l'action du maintien de l'équilibre dynamique d'un organisme.
+Dynamique car il implique une fluctuation constante dûe à l'interaction avec l'environnement. L'environnement induit un déséquilibre d'un facteur clé (set point), s'ensuit le déclenchement d'un mécanisme visant à rétablir la valeur de ce facteur clé. Par exemple un homo sapiens qui se nourrit va faire grimper son niveau de glucose dans le sang. S'ensuit la libération d'insuline par le pancréas pour rétablir la quantité de sucre dans le sang. 
+
+Différents mécanismes permettent à l'homéostasie de se maintenir. Dans l'exemple ci-dessus il s'agit d'une boucle de rétroaction négative. 
+
+Il existe aussi des boucles de rétroactions positives. Un facteur clé est modifié, ce qui engendre une réponse qui altère encore le facteur clé et ainsi de suite. Un exemple est le cas de l'accouchement. Le poids du bébé va appuyer sur le cervix, ce qui va déclencher un message nerveux de douleur, qui va engendrer une libération d'oxytocine, qui va engendrer une contraction qui va appuyer sur le cervix, etc ,etc
+
+Un des facteurs clés est la température. Il y a bien des façons de réguler sa température. Certains organisme sont ectothermes, c'est à dire que leur température corporelle est dépendante du milieu extérieur. D'autres sont endotherme, les endothermes ont la capacité interne de réguler leur température. De plus endothermes comme ectothermes peuvent être homéothermes ou ?poilatherme ? => est-ce que leur température interne varie dans une grande amplitude ou pas
+
+On peut noter 4 processus permettant de réguler sa température:
+- la conduction
+	- le contact direct avec une surface
+- l'évaporation
+	- L'organisme sécrète de l'eau chaude afin de se refroidir ???? pas clair
+- la convection
+	- Le vent entre en contact avec l'organisme et emporte au passage de la chaleur ??? pas clair non plus
+
+
+### Nutrition animale et système digestif
+#### Systèmes digestifs
+
+Un animal peut être :
+- herbivore
+	- frugivore
+	- folivore
+	- nectivore
+	- granivore
+- carnivore 
+	- obligate carnivore (en anglais) reçoivent des nutriments uniquement de la chair animale (ex: lion)
+	- facultative carnivore peuvent manger des plantes (distinction pas clair entre omnivore et facultative carnivore) (ex: chiens)
+- omnivore
+
+#### Système digestif des invertébrés
+
+- La cavité gastrovasculaire (ex: Platyhelminthes, Cnidaria, Ctenophora)
+	- Pas d'anus.
+	- Les éléments ingérés entre dans une cavité où des enzymes digestives vont être relachées pour briser les éléments en nutriments
+	- Les déchets sortent par où ils sont entrés
+- Le canal alimentaire (ex du verre de terre)
+	- Un tube avec une bouche et un anus
+	- Processus: 
+		- La nourriture entre par la bouche
+		- Est stockée dans le jabot
+		- Passe ensuite dans le gésier où elle est broyée et digérée
+		- Passe ensuite dans l'intestin où les nutriments sont absorbés
+		- Les déchets sont rejetés par l'anus (on parle castings pour les selles)
+	- 
