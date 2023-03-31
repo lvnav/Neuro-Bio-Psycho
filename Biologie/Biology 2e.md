@@ -194,3 +194,48 @@ Un animal peut être :
 		- Passe ensuite dans l'intestin où les nutriments sont absorbés
 		- Les déchets sont rejetés par l'anus (on parle castings pour les selles)
 	- 
+
+#### Système digestif des ruminants
+Système digestif doit digérer de grandes quantités de cellulose
+
+Pas d'incisives supérieures
+![[ruminant-digestive-system.jpg]]
+
+Les ruminants ont un estomac polygastrique :
+- Le rumen/panse
+- Le réticulum/bonnet
+- L'obasum/feuillet
+- L'abomasum
+
+Le ruminant avale de l'herbe. Cette herbe va dans le rumen ou dans le réticulum où des procaryotes et des protistes prédigèrent les feuilles. Ce qui est dans le réticulum peut être régurgité pour être mastiqué de nouveau. Après le passage dans le rumen ou réticulum, l'herbe peut passer dans l'omasum où l'eau va être extraite. Ensuite l'herbe peut passer dans l'abomasum pour être digérée puis envoyée dans l'intestin grêle
+
+#### Système digestif des pseudo-ruminants
+
+Certains animaux comme les chameaux et les alpagas sont des pseudo-ruminants
+
+Ils n'ont pas de rumen mais ont de nombreux microorganismes au niveau du cecum qui sont capable de fermenté et digéré la cellulose
+
+
+### Parties du système digestif
+#### Cavité orale
+
+- langue
+	- Produit des lipases (enzymes qui décompose les triglycérides)
+- glandes qui produisent de la salive:
+		- submandibulaire
+		- sublinguale
+		- parotides
+- dents
+- pharynx 
+	- l'aiguillage est fait au niveau de l'épiglotte et mène vers:
+		- oesophage (estomac)
+		- larynx into trachée (poumons)
+- salive
+	- humidifie les aliments
+	- "buffers the pH of the food" 
+	- produit de l'amylase salivaire (commence à transformer l'amidon en maltose)
+	- Contient:
+		- Des immunoglobulines
+		- Des lysozymes
+
+Le processus de mastication associé à la salive transforme la nourriture en une masse appellée bol alimentaire (bolus en anglais). La langue aide à avaler en poussant le bolus vers le pharynx. 
