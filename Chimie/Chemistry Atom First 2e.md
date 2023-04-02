@@ -108,6 +108,8 @@ On note les isotopes avec le nombre de masse en superscript avant le symbole $^2
 #### Masse atomique
 masse atomique +-= nombre de masse (1 neutron et 1 proton contribuent approximativement à 1 amu à la masse d'un atome)
 
+$1 amu = 1.66 \times 10^{-24}g$
+
 mais la masse affichée dans le tableau périodique est une masse moyenne pondérée de tous les isotopoes présents dans un échantiollon naturel de cet élément:
 $masse \space moyenne = \sum_{i}(abondance \space fractionnelle \times masse \space isotopique)_{i}$
 
@@ -246,3 +248,95 @@ ex:
 |-|-|-|
 |$HC_2H_3O_2$|acetate|acetic acid|
 
+
+### Formule de masse et concept de Mole
+
+#### Substances covalentes
+La formule de masse = somme des masses moyenne de chaque atome constituants la substance. ex:$\displaylines{CHCl_3 \\=> masse \space moyenne \space de \space C  + masse \space moyenne \space de \space H + 3 \times masse \space moyenne \space de \space Cl \\ => 12.01 + 1.008 + 3 \times 35.45 = 119.37amu}$
+
+On parle de masse moléculaire
+
+#### Composés ioniques
+Même calcul que pour les substances covalentes mais on ne peut pas parler de masse moléculaire. On parle juste de formule de masse
+
+On peut (généralement) se servir des masses des atomes neutres (pas des ions)
+
+#### La Mole
+$1 \space mole = 6.02214076 \times 10^{23} \space discrete \space entities$
+
+Ce nombre s'appelle la constante d'Avogadro ($N_A$)
+Évidemment la masse d'une mole de fer n'est pas la même que la masse d'une mole d'hydrogène. 
+La masse molaire d'un élément est la masse en grammes d'une mole de cette substance($g/mol$). 
+
+##### Grammes vers moles
+Pour trouver la quantité de mole d'une substance à partir d'une valeur en grammes et d'une masse molaire:
+$4.7g \space de \space K;K=39.10g/mol; 4.7g\times \frac{1mol}{39.10g/mol} = 0.12 mol \space K$
+
+##### Moles vers grammes
+Pour trouver la quantité de grammes d'une substance à partir d'une valeur en mole et d'une masse molaire
+$9.2\times10^{-4} mol \space argon;Ar=39.95g/mol; 9.2\times 10^{-4}\times \frac{39.95g/mol}{1} =  0.037g\space Ar$
+=> À ce stade il suffit de multiplier par la constante d'Avogadro pour trouver le nombre d'atomes : $0.037 \times 6.02\times 10^{23} = 2.23\times10^{22} \space Ar \space atoms$
+
+### Déterminer les formules moléculaires et empiriques
+
+#### Pourcentage de composition
+
+Pour un composé gazeux de carbone et hydrogène:
+$\%H = \frac{mass \space H}{mass \space compound}\times100\%$
+$\%C = \frac{mass \space C}{mass \space compound}\times100\%$
+
+#### Déterminer la formule empirique
+Pour un composé constitué de $1.71g\space C$ et $0.287g\space H$
+$1.71g \space C \times \frac{1 \space mol \space C}{12.01g \space C} = 0.142mol \space C$
+$0.287g \space H \times \frac{1 \space mol \space H}{1.008g \space H} = 0.284 \space mol \space H$
+
+ensuite on divise les 2 quantités par la plus petite des 2
+$C_{\frac{0.142}{0.142}} \space H_{\frac{0.284}{0.142}} \space or \space CH_2$
+
+Si on tombe sur un float on multiplie les deux subscript (ex: $CH_{2.5} => C_2H_5$)
+
+Attention il sagit de la formule empirique et pas nécéssairement de la formule moléculaire
+
+#### Dériver la formule moléculaire
+
+$\frac{molecular \space or \space molar \space mass \space (amu \space or \space \frac{g}{mol})}{empirical \space or \space molar \space mass \space (amu \space or \space \frac{g}{mol})} = n \space formula \space units/molecule$
+
+Puis multiplier chaque subscript de la formule empirique par $n$ 
+$(A_xB_y)_n = A_{nx}B_{ny}$
+
+### Molarité
+#### Solutions
+**solution** = mixture homogène
+**concentration** = Le montant relatif des composants d'une solution
+**solvant** = Le composant dont la concentration est la plus importante
+**solution aqueuse** = solution dont le solvant est de l'eau
+**soluté** = composant d'une solution dont la concentration est beaucoup plus faible que le solvant
+
+un soluté peut être:
+- **dilué** = concentration relativement faible
+- **concentré** = concentration relativement haute
+
+La **molarité**(M) est une unité de mesure de la concentration :
+$M = \frac{mol \space solute}{L \space solution}$
+
+$mol=M \times L$
+$L= \frac{mol}{M}$
+
+#### Dilution des solutions
+
+dilution = processus par lequel la concentration d'une solution est réduite par l'addition de solvant
+
+$m = ML$
+donc
+$n_1=M_1L_1$
+$n_2=M_2L_2$
+où 1 et 2 font référence à une solution avant et après dilution.
+La dilution ne change pas le montant de soluté donc:
+$n_1=n_2$
+
+vérifiable avec 
+$0.5mol =\frac{mol_1}{L_1} \times L_1 = \frac{0.5mol}{1} \times 1$
+et $0.5mol =\frac{mol_2}{L_2} \times L_2 = \frac{0.5mol}{2} \times 2$
+
+Plus généralement :
+$C_1V_1=C_2V_2$
