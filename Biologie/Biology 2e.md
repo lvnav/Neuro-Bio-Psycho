@@ -239,3 +239,62 @@ Ils n'ont pas de rumen mais ont de nombreux microorganismes au niveau du cecum q
 		- Des lysozymes
 
 Le processus de mastication associé à la salive transforme la nourriture en une masse appellée bol alimentaire (bolus en anglais). La langue aide à avaler en poussant le bolus vers le pharynx. 
+
+#### Oesophage
+
+organe tubulaire connectant la bouche à l'estomac. Les muscles mous de l'oesophage effectue le peristaltisme: un ensemble de mouvement poussant la nourriture vers l'estomac. Le mouvement peristaltique est une réflexe involontaire déclenché par l'avalement. 
+
+le sphincter oesophagien fait la jonction entre l'oesophage et l'estomac
+
+#### L'estomac
+
+- peut se dilater jusqu'à 20x sa taille vide.
+- pH entre 1.5 et 2.5.
+- Site majeur de la digestion des protéines (chez animaux autres que ruminants) dont les acteurs sont :
+	- la pepsine (enzyme) :
+		- est sécrétée par les **cellules principales de l'estomac** sous une forme inactive: les pepsinogènes.
+		- brise les liens peptidiques et coupe les protéines en plus petits polypeptides.
+		- Aide à activer plus de pepsinogène (positive feedback)
+	- hydrogène et ions chlorides :
+		- sécrétés par les cellules pariétales
+		- se combine dans le lumen pour former de l'acide chlorhydrique (hydrochloric acid) qui est le composant acide principal des sucs gastriques
+		- l'acide chlorhydrique participe à la conversion du pepsinogène en pepsine
+- L'environnement hautement acide tue beaucoup de micro-organismes dans la nourriture et avec l'action de la pepsine, a pour conséquence hydrolyse des protéines dans la nourriture.
+- La digestion chimique est facilitée par l'action de malaxage(churning) de l'estomac (le contenu est mixé en 20 min)
+- Le mélange nourriture et sucs gastriques s'appelle le chyme
+- Le vidage de l'estomac prend entre 2-6heures.
+	- La nourriture est envoyée dans l'intestin par petits montants de chyme.
+- la jonction entre l'intestin grêle et l'estomac est assurée par le sphincter pylorique
+- Pour éviter que l'estomac se digère lui-même, la pepsin est synthétisé par les cellules principales de l'estomac sous forme inactive + l'estomac est tapissé d'un épais mucus qui protège les tissus sous-jacents.
+	- Un ulcère gastrique peut se produire lorsque le mucus est abimé et n'arrive pas à se reformer (favorisé par *Helicobacter pylori*)
+
+#### L'intestin grêle
+- C'est ici que la digestion des lipides, glucides et protéines s'effectue
+- Hautement replié ce qui augmente l'efficacité d'absorption des nutriments. 
+- L'épithelium est composé de villosité elles-mêmes composées de microvillosités du côté apical. 
+- Les nutriments absorbés par les microvillosité passe par la veine porte pour rejoindre le foie où ils seront distribués dans l'organisme après avoir été détoxifiés
+
+structure: (de l'estomac vers le gros intestin) 
+- sphincter pylorique
+- duodénum
+	- Le gros de la digestion se passe ici
+	- Des sucs digestifs provenant :
+		- du foie
+		- du pancréas
+			- le suc pancréatique est composé: 
+				- d'une solution alcaline riche en bicarbonate qui neutralise l'acidité du chyme.
+				- d'enzymes:  qui vont cataboliser la nourriture en amidons, disaccharides, protéines et acidés aminés
+		- de la vésicule biliaire
+			- La bile est produite dans le foie puis est concentrée et stockée dans la vésicule biliaire
+			- La bile contient des sels biliaires:
+				- qui vont émulsifier les lipides
+		- des cellules glandulaires de la paroi
+	  - Absorption des acides gras
+  
+- jéjunum
+	- Hydrolyse des nutriments continue
+	- Absorption de la plupart des acides aminés et des glucides
+- iléum/iléon
+	- Absorption des sels biliaires et des vitamines. 
+	- La nourriture non-digérée est envoyée vers le colon par peristaltisme
+- Valvule iléo-caecale

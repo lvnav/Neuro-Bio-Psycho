@@ -181,7 +181,7 @@ Pour caractériser les ions polyatomiques on utilise des suffixes et préfixes s
 - hypo-\[infixe\]-ite
 
 <center>Common polyatomics ions</center>
-![[Pasted image 20230326124509.png]]
+![[common-polyatomic-ions.png]]
 
 Quand un atome perd un éléctron(un métal) au profit d'un autre atome(un non-metal), un lien ionique peut se former. On parle alors de composé ionique. Les composés ioniques fondent et bouillent à de hautes températures
 
@@ -340,3 +340,27 @@ et $0.5mol =\frac{mol_2}{L_2} \times L_2 = \frac{0.5mol}{2} \times 2$
 
 Plus généralement :
 $C_1V_1=C_2V_2$
+
+
+### Autres unités pour la concentration d'une solution
+
+#### Poucentage de masse
+$mass \space percentage = \frac{mass \space of \space component}{mass \space of \space solution} \times 100\%$
+
+symbole peut être : %, %mass, %weight, (w/w)%
+
+#### Pourcentage de volume
+
+$volume \space percentage = \frac{volume \space solute}{volume \space solution} \times 100\%$
+
+symbole : %vol, (v/v)%
+
+#### Pourcentage de masse par volume
+
+masse/volume => ex: 0.9g d'un solute pour 100ml de solution
+
+
+### Partie par million et partie par billion (échelle courte)
+
+$ppm = \frac{mass \space solute}{mass \space solution} \times 10^6ppm$
+$ppb = \frac{mass \space solute}{mass \space solution} \times 10^9ppb$
