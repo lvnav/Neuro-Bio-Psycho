@@ -265,7 +265,7 @@ le sphincter oesophagien fait la jonction entre l'oesophage et l'estomac
 - Le vidage de l'estomac prend entre 2-6heures.
 	- La nourriture est envoyée dans l'intestin par petits montants de chyme.
 - la jonction entre l'intestin grêle et l'estomac est assurée par le sphincter pylorique
-- Pour éviter que l'estomac se digère lui-même, la pepsin est synthétisé par les cellules principales de l'estomac sous forme inactive + l'estomac est tapissé d'un épais mucus qui protège les tissus sous-jacents.
+- Pour éviter que l'estomac se digère lui-même, la pepsine est synthétisée par les cellules principales de l'estomac sous forme inactive + l'estomac est tapissé d'un épais mucus qui protège les tissus sous-jacents.
 	- Un ulcère gastrique peut se produire lorsque le mucus est abimé et n'arrive pas à se reformer (favorisé par *Helicobacter pylori*)
 
 #### L'intestin grêle
@@ -287,7 +287,7 @@ structure: (de l'estomac vers le gros intestin)
 		- de la vésicule biliaire
 			- La bile est produite dans le foie puis est concentrée et stockée dans la vésicule biliaire
 			- La bile contient des sels biliaires:
-				- qui vont émulsifier les lipides
+				- qui vont émulsionner les lipides
 		- des cellules glandulaires de la paroi
 	  - Absorption des acides gras
   
@@ -298,3 +298,128 @@ structure: (de l'estomac vers le gros intestin)
 	- Absorption des sels biliaires et des vitamines. 
 	- La nourriture non-digérée est envoyée vers le colon par peristaltisme
 - Valvule iléo-caecale
+	- appendice iléo-caecal/appendice vermiforme
+
+
+#### Le gros intestin
+- Cecum
+- Colon
+	- se subdivise en :
+		- colon ascendant
+		- colon transverse
+		- colon descendant
+		- colon sigmoide
+	- Contient une flore bactérienne importante (la flore intestine)
+	- Extraction de l'eau et des sels minéraux de la nourriture non digérée
+	- stockae des déchets
+- rectum
+	- Stocke les selles
+	- selles sont rejetées par péristaltisme
+- muscle sphincter interne de l'anus
+	- mouvement non contrôlés
+- muscle sphincter externe de l'anus
+	- mouvement contrôlés
+- anus
+
+#### Organes accessoires
+- ajoute des sécrétions (enzymes)
+- liste:
+	- glandes salivaires
+	- pancréas
+	- foie
+	- vésicule biliaire
+- sont régulés par les hormones en réponse a la nourriture ingérée
+- le foie:
+	- plus gros organe chez humain
+	- rôle important dans la digestion des graisses et détoxification du sang
+	- produit la bile:
+		- suc digestif requis pour briser les composants gras dans le duodénum
+	- traite les vitamines et les graisses 
+	- synthétise des protéines du plasma
+ - Le pancreas:
+	 - le suc pancréatique:
+	 - contient un haut niveau de bicarbonates, un alcali qui neutralise l'acidité du chyme à sa sortie de l'estomac.
+	 - contient des enzymes qui vont permettre la digestion des protéines et des glucides
+ - la vésicule biliaire:
+	 - stocke la bile produite par le foie
+	 - concentre les sels biliaires
+
+### Nutrition et production d'énergie
+- Les humains ne peuvent pas dériver de glucose à partir de cellulose car ils n'ont pas de cellulase
+- L'excès de sucre est converti en glycogène et stocké dans le foie et les musles (consommé en cas d'activité physique de longue durée/manque de nourriture)
+- Excès de glycogène est converti en graisse stockée dans les couches inférieures de la peau.
+
+
+#### Nutriments essentiels
+
+
+![[water-soluble-essentials-vitamins.png]]
+
+![[fat-soluble-essentials-vitamins.png]]
+
+<center>Essentials minerals and functions</center>
+![[minerals-and-their-functions.png]]
+
+![[essentials-amino-acids.png]]
+
+
+#### Valeur énergétique et ATP
+
+glucose = source principale d'énergie, "le carburant du corps".
+Les glucides que l'on consomme sont transformés en glucose à travers une succession de réactions chimiques cataboliques
+
+ATP = monnaie énergétique. l'énergie est stocké dans les liens ester du phosphate
+
+
+### Processus du système digestif
+#### Ingestion
+- mastication
+- transformation en bol alimetaire avec l'aide des enzymes produites par la salive et la langue
+
+#### Digestion et absorption
+##### Glucides
+- Bouche:
+	- amylases salivaires
+		- Amidons & glycogen -> maltose (disaccharide)
+- Estomac:
+	- L'environnement acide de l'estomac stoppe l'action de l'amylase
+- Duodénum:
+	- amylases pancréatique
+		- Amidons & glycogen -> maltose (disaccharide)
+	- Les disaccharides sont décomposés en monosaccharides par les oligosaccharidases:
+		- maltases
+			- maltose -> glucose
+		- sucrases
+			- sucrose/saccharose -> glucose & fructose
+		- lactases
+			- lactose -> glucose & galactose
+
+##### Protéines
+- Estomac:
+	- Pepsine décompose les protéines en peptides (pour rappel : 4-8 acides aminés)
+- Duodénum:
+	- Pancréas produit des enzymes qui réduisent les peptides en plus petit peptides:
+		- Trypsine
+		- Élastase
+		- Chymotrypsine
+	- Intestin grêle et pancréas produisent des peptidases (peptides vers acide aminés):
+		- carboxypeptidase
+		- dipeptidase
+		- aminopeptidase
+
+##### Lipides
+- Bouche:
+	- sécrétion de lipase
+- Estomac: 
+	- action des lipases linguales + lipases gastriques
+- Duodénum
+	- action des lipases pancréatique qui décompose les lipides en :
+		- acides gras
+		- glycérides
+	- emulsification des triglycérides par les sels de bile. L'amphipathie des sels de bile font qu'ils s'interfaçent avec de l'eau d'un côté et des lipides de l'autre.
+	- 
+
+l'émulsification évité qu'un aggrégat (donc une boule avec peu de surface d'action) se forme
+
+#### Elimination
+

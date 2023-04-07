@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b50c72a1b62cbe0",
+        "id": "3409a4f15904f848",
         "type": "tabs",
         "children": [
           {
-            "id": "897eb69f0d9f5799",
+            "id": "d973c2ba802471d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,22 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "897eb69f0d9f5799",
+  "active": "d973c2ba802471d6",
   "lastOpenFiles": [
-    "Zettelkasten/Allostasie.md",
-    "Biologie/Biology 2e.md",
     "Chimie/Chemistry Atom First 2e.md",
+    "Biologie/Biology 2e.md",
+    "Files/essentials-amino-acids.png",
+    "Files/fat-soluble-essentials-vitamins.png",
+    "Files/minerals-and-their-functions.png",
+    "Files/water-soluble-essentials-vitamins.png",
+    "Files/Screenshot from 2023-04-04 13-22-09.png",
     "Files/common-polyatomic-ions.png",
+    "Lectures/La machinerie de la vie.md",
+    "Zettelkasten/Allostasie.md",
     "Files/ruminant-digestive-system.jpg",
     "Files/periodic-table-explained.jpg",
     "Files/isomere.jpg",
     "Files/formulas.jpg",
-    "Files/mass-spectrometry.jpg",
     "Statistics/Vitals Statistics.md",
-    "Files/rutherford-experiment.jpg",
-    "Files/two-models-of-atoms.jpg",
-    "Files/oil-drop-experiment.jpg",
-    "Files/cathode-ray-tube.jpg",
     "Quiz/Réponses/Biologie - 1.md",
     "Quiz/Questions/Embryologie - 1.md",
     "Anatomy and Physiology/Les tissus.md",
@@ -194,7 +195,6 @@
     "Enquêtes/Histoire de la théorie de l'évolution.md",
     "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
     "Zettelkasten/Programme L1 BG2S.md",
-    "Lectures/La machinerie de la vie.md",
     "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
     "Enquêtes",
     "Zettelkasten/Behavioral evolution.md",
