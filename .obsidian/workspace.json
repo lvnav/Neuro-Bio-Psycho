@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Biology 2e.md",
+                "file": "Chimie/Chemistry Atom First 2e.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e85c35e21be432e6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/common-polyatomic-ions.png"
               }
             }
           }
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologie/Biology 2e.md",
+                "file": "Chimie/Chemistry Atom First 2e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologie/Biology 2e.md",
+                "file": "Chimie/Chemistry Atom First 2e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologie/Biology 2e.md"
+                "file": "Chimie/Chemistry Atom First 2e.md"
               }
             }
           }
@@ -161,20 +171,21 @@
   },
   "active": "d973c2ba802471d6",
   "lastOpenFiles": [
+    "Files/common-polyatomic-ions.png",
     "Chimie/Chemistry Atom First 2e.md",
+    "Zettelkasten/Programme L1 BG2S.md",
+    "Files/precipitate-table.png",
     "Biologie/Biology 2e.md",
     "Files/essentials-amino-acids.png",
     "Files/fat-soluble-essentials-vitamins.png",
     "Files/minerals-and-their-functions.png",
     "Files/water-soluble-essentials-vitamins.png",
     "Files/Screenshot from 2023-04-04 13-22-09.png",
-    "Files/common-polyatomic-ions.png",
     "Lectures/La machinerie de la vie.md",
     "Zettelkasten/Allostasie.md",
     "Files/ruminant-digestive-system.jpg",
     "Files/periodic-table-explained.jpg",
     "Files/isomere.jpg",
-    "Files/formulas.jpg",
     "Statistics/Vitals Statistics.md",
     "Quiz/Réponses/Biologie - 1.md",
     "Quiz/Questions/Embryologie - 1.md",
@@ -194,7 +205,6 @@
     "Enquêtes/Clarifications botaniques de quelques aliments végétaux.md",
     "Enquêtes/Histoire de la théorie de l'évolution.md",
     "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
-    "Zettelkasten/Programme L1 BG2S.md",
     "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
     "Enquêtes",
     "Zettelkasten/Behavioral evolution.md",

@@ -364,3 +364,125 @@ masse/volume => ex: 0.9g d'un solute pour 100ml de solution
 
 $ppm = \frac{mass \space solute}{mass \space solution} \times 10^6ppm$
 $ppb = \frac{mass \space solute}{mass \space solution} \times 10^9ppb$
+
+## Stoechiométrie des réactions chimiques
+### Écrire et équilibrer des équations chimiques
+
+Réactifs -> Produits
+
+Il faut équilibrer l'équation = avoir le même montant de chaque atomes de chaque côté de l'équation
+
+Pour une formule non équilibrée
+$NaCl(aq)+H_2O(l)→NaOH(aq)+H_2(g)+Cl_2(g)$
+
+On peut produire:
+- l'équation moléculaire
+$2NaCl(aq)+2H_2O(l)⟶2NaOH(aq)+H_2(g)+Cl_2(g)$
+- l'équation ionique complète
+$2Na+(aq)+2Cl−(aq)+2H_2O(l)⟶2Na+(aq)+2OH−(aq)+H_2(g)+Cl_2(g)$
+- l'équation ionique net
+$2Cl−(aq)+2H_2O(l)⟶2OH−(aq)+H_2(g)+Cl_2(g)$
+
+
+### Classification des réactions chimiques
+#### Réactions de précipitations
+= Une réaction durant laquelle des substances dissoutes réagissent pour former un produit solide.
+autres noms : double déplacement, double remplacement, réaction de métathèse 
+
+ex: Formation des récifs de corails. Formation des calculs rénaux
+
+La mesure dans laquelle une substance peut être dissolue dans un solvant s'appelle la solubilité (= le maximum de concentration d'une substance dans des conditions spécifiques)
+
+![[precipitate-table.png]]
+=> Ce sont des "ou" pas des "et" dans les exceptions
+
+#### Réactions acido-basiques
+= une réaction durant laquelle un cation hydrogène est transféré d'une espèce chimique à un autre
+
+**acide** = une substance qui se dissoudra dans l'eau pour former des ions hydronium $H_3O^+$
+- Si dissolution totale => acide fort
+- Si dissolution partielle => acide faible
+
+**base** = une substance qui se dissoudra dans l'eau pour former des ions hydroxide $OH^-$
+- Si dissolution totale => base forte
+- Si dissolution partielle => base faible
+
+<center>Acides fort communs</center>
+|Compound Formula|Name in Aqueous Solution|
+|-|-|
+|$HBr$|hydrobromic acid|
+|$HCl$|hydrochloric acid|
+|$HI$|hydroiodic acid|
+|$HNO_3$|nitric acid|
+|$HClO_4$|perchloric acid|
+|$H_2SO_4$|sulfuric acid|
+
+Un réaction de neutralisation est un type spécifique de réaction acido-basique durant laquelle les réactifs sont: un acide et une base (sauf eau) et le produit est un sel et de l'eau
+$acide+base \rightarrow sel+eau$
+
+#### Réactions d'oxydoréduction (redox)
+
+À l'origine oxidation = réactions chimiques impliquant de l'$O_2$
+
+oxydation = perte d'électrons ou plutôt augmentation du nombre d'oxydation
+réduction = gain d'électrons ou plutôt baisse du nombre d'oxydation
+=> attention pas valable uniquement pour des électrons (voir plus bas)
+
+Par exemple pour : 
+$2Na(s)+Cl_2(g) \rightarrow 2NaCl(s)$
+on utilise des formules de demi-réaction pour exprimer l'échange
+$2Na(s) \rightarrow 2Na^+(s)+2e^-$
+$Cl_2(g)+2e^- \rightarrow 2Cl^-(s)$
+
+On dit que le sodium est oxydé et que le chlore subit une réduction
+sodium = agent de réduction / réducteur = celui  qui est oxydé
+chlore = agent d'oxydation / oxydant = celui qui est réduit
+
+Certaines réactions d'oxydoréduction se produisent sans échange d'électrons.
+On se basse sur le nombre d'oxydation (=état d'oxydation) qui est la charge que l'atome possèderait si le composé était ionique
+
+/!\ Les parties 1,2,4 sont pas clairs. Se référer à l'équation plus bas /!\
+Pour trouver le nombre d'oxydation:
+1. Le nombre d'oxydation d'un atome dans une substance = 0
+2. Le nombre d'oxydation d'un ion monoatomique = charge de l'ion
+3. Nombre d'oxydation pour des non-métaux communs:
+	- Hydrogène
+		- 0 seul
+		- +1 avec nonmétaux
+		- -1 avec métaux
+	- Oxygène
+		- 0 seul 
+		- -2 dans la plupart des composés
+		- parfois -1 => peroxides $O_2^{2-}$, très rarement $-\frac{1}{2}$ => superoxides $O_2^-$
+		- Positifs variable avec $F$
+	- Halogènes
+		- -1 pour $F$
+		- -1 pour les autres sauf quand combinés avec de l'oxygène ou autre halogène. Positif dans ces cas là mais valeur variable
+4. La somme du nombre d'oxydation pour tous les atomes dans une molécule ou un ion polyatomique = charge de la molécule ou de l'ion
+
+$charge \space on \space SO_3^{2−}=−2=(3×−2)+(1×x)$
+$x=−2−(3×−2)=+4$
+
+Dans la notation symbolique 2+ = charge tandis que +2 = nombre d'oxydation
+
+quelques réactions d'oxydo-réduction:
+- réaction de déplacement simple
+	- Un ion est remplacé par l'oxidation d'un élément métallique
+- réaction de combustion
+	- le réducteur (carburant), et l'oxydant réagissent et libèrent une grande quantité de chaleur et souvent de flammes
+- dismutation
+	- Une espèce chimique joue à la fois le rôle de réducteur et d'oxydant
+
+##### Balancing Redox Reactions via the Half-Reaction Method
+1. Write the two half-reactions representing the redox process.
+2. Balance all elements except oxygen and hydrogen.
+3. Balance oxygen atoms by adding H2O molecules.
+4. Balance hydrogen atoms by adding H+ ions.
+5. Balance charge by adding electrons.
+6. If necessary, multiply each half-reaction’s coefficients by the smallest possible integers to yield equal numbers of electrons in each.
+7. Add the balanced half-reactions together and simplify by removing species that appear on both sides of the equation.
+8. For reactions occurring in basic media (excess hydroxide ions), carry out these additional steps:
+1.  Add OH− ions to both sides of the equation in numbers equal to the number of H+ ions.
+2.  On the side of the equation containing both H+ and OH− ions, combine these ions to yield water molecules.
+3.  Simplify the equation by removing any redundant water molecules.
+9. Finally, check to see that both the number of atoms and the total charges are balanced.

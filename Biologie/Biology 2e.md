@@ -423,3 +423,56 @@ l'émulsification évité qu'un aggrégat (donc une boule avec peu de surface d'
 
 #### Elimination
 
+
+### Systèmes sensoriels
+#### Introduction
+Les sens spécifiques:
+- olfaction
+- goût
+- équilibre
+- vision
+- audition
+- somesthésie (temperature, douleur, pression, vibration)
+- sensations vestibulaires (orientation et équilibre)
+- proprioception (position des os, articulations et muscles)
+
+2 types de systemes qui peuvent transducter l'information sensorielle:
+- neurone + recepteur sensoriel
+- terminaison nerveuse est directement le récepteur sensoriel
+	- moins de spécificité du récepteur (ex: récepteurs de douleur des gencives répondent à la pression mais aussi à la température)
+
+Le processus :
+- Réception
+	- L'espace dans lequel un récepteur peut détecter un stimulus est son champ récepteur (toucher vs ouie)
+- Transduction
+	- Transformation d'un signal sensoriel en signal électrique
+	- Se produit au niveau du récepteur sensoriel
+	- le changement de potentiel électrique du récepteur s'appelle le potentiel de récepteur
+	- quatres caractéristiques de l'information sont encodées par le systeme sensoriel:
+		- le type de stimulus
+		- la position du stimulus dans le champ réceptif
+		- l'intensité relative du stimulus
+			- soit par la fréquence de potentiel d'action
+			- soit par la quantité de récepteurs activés
+		- la durée du stimulus
+- Perception
+	- Tous les signaux sensoriels saufs olfactifs passent par le thalamus puis sont routés vers leurs aires de traitement respectives
+ 
+#### Sensations somesthésiques
+##### Récepteurs somesthésiques
+
+
+5 catégories d'après la nature des stimulis:
+- Mecanorecepteurs
+	- Sensible aux déformations de leur membrane
+ |nom|position dans la peau|position dans le corps|encapsulé ?|
+ |-|-|-|
+ |Corpuscule de Merkel|Proche de la base de l'épiderme|Peau poilu et peau glabre|oui|
+ |Corpuscule de Meissner|Proche de la base de l'épiderme|Peau glabre|oui|
+ |Corpuscule de Pacini|Au milieu du derme, au dessus du nerf|Peau poilu et peau glabre, Périoste, capsule articulaire, pancréas et autres viscères, sens, organe sexuels|
+ |Corpuscule de Ruffini|-|-|
+ |Corpuscule de Krause|-|-|
+- Thermorecepteurs
+- Propriocepteurs
+- Nocicepteurs
+- Chemorecepteurs
