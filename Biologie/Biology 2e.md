@@ -461,7 +461,6 @@ Le processus :
 #### Sensations somesthésiques
 ##### Récepteurs somesthésiques
 
-
 5 catégories d'après la nature des stimulis:
 - Mecanorecepteurs
 	- Sensible aux déformations de leur membrane
@@ -476,3 +475,119 @@ Le processus :
 - Propriocepteurs
 - Nocicepteurs
 - Chemorecepteurs
+
+
+#### Vision
+
+La longueur d'onde que les humains perçoivent est entre 380 et 760 nm
+de l'ordre de $0.5 \times 10^-6$
+
+Pour comparaison : 
+- Onde radio = $10^3$
+- rayon gamma = $10^-{12}$
+
+Pour la lumière (et je crois de manière générale), la longueur d'onde est inversément proportionnelle à la fréquence
+
+Les hautes longueurs d'ondes tendent vers le rouge, les basses vers le violet
+
+Nous interprétons l'amplitude d'une onde lumineuse comme son intensité lumineuse/luminance (Unité SI = candela)
+
+La couleur apparente d'un objet = la couleur que l'objet réfléchi (un objet rouge réfléchi le rouge mais absorbe les autres longueurs d'ondes)
+
+#### Anatomie de l'oeil
+- cornée
+- humeur aqueuse
+	- liquide entre la cornée et la pupille
+- iris
+	- membrane contractile (la couleur de l'oeil)
+- pupille
+	- centre noir de l'oeil
+- sclère
+	-  blanc de l'oeil
+- conjonctive
+- cristallin
+	- lentille faisant converger la lumière
+- rétine
+	- macula
+		- fovéa
+			- Petite dépression de la macula dans lequel la lumière est focalisé.
+			- Permet la vision diurne
+			- haute densité de cônes
+	- papille
+- humeur vitrée
+	- liquide interne du globe oculaire
+
+Quelques pathologies:
+- presbytie:
+	- Dû à la sclérose du cristallin
+- Hypermétropie
+	- Dû à un oeil trop court. Le point focal de la lumière se trouve plus loin que la fovéa
+- Myopie
+	- Le point focal de la lumière se trouve dans la rétine
+
+
+2 types de photorécepteurs:
+- Cônes
+	- faiblement photosensible
+	- proche du centre de la rétine
+	- détecte lumière intense 
+	- rôle principal :
+		- vision diurne
+		- vision des couleurs
+- Batonnets
+	- très photosensible
+	- situés en périphérie de la rétine
+	- détecte pénombre (lumière faible)
+	- utile en vision périphérique et nocture
+
+#### Transduction de la lumière
+
+Les 2 types de photorécepteurs contiennent des photopigments
+photopigment principal = rhodopsin
+
+rhodopsine se sudvise en 2 parties:
+- opsin
+	- protéine membranaire qui traversent la membrane
+- retinal
+	- Une molécule qui absorbe la lumière
+
+Physiologie:
+- lumière touche un photorécepteur
+- changement de forme du rétinal
+	- passe de l'état cis (plié) à l'état trans (linéaire) (isomérisation)
+-  isomérisation active la rhodopsin
+- cascade d'évènements
+- fermeture des canaux $Na^+$ de la membrane du photorécepteur (hyperpolarisation)
+
+
+#### Codage trichromatique
+
+Fr = En
+Cône B = S cone
+Cône V = M cone
+Cône R = L cone
+
+#### Traitement rétinien
+
+- La lumière traverse des couches de neurones pour atteindre les cônes et batonnets dans le fond de la rétin. On parle de rétine inversée
+- Le signal visuel quitte les cônes et batonnets (si je comprends bien dans un cas où les photorécepteurs ne sont pas stimulés par de la lumière car dans ces cas là ils sont hyperpolarisés)
+- traverse vers les cellules bipolaires
+- traverse vers les cellules ganglionnaires
+
+Photorécepteurs subissent une activité tonique -> ils sont toujours légèrement actifs même quand ils ne sont pas stimulés par la lumière.
+
+Pour un neurone sous activité tonique:
+- pas de stimulus -> taux de décharge à un niveau constant 
+- certains stimulus -> augmentation du taux de décharge
+- d'autres stimulus -> baisse du taux de décharge
+
+Sans lumière: 
+- neurones bipolaires connectant cônes/batonnets aux neurones ganglionnaires -> activement inhibés par les cônes/batonnets
+
+Avec lumière:
+- hyperpolarisation des cones/batonnets
+- désactivation de l'inhibition des cellules bipolaires
+- Cellules bipolaires stimule les cellules ganglionnaires
+- Cellules ganglionnaires envoient leurs signal en dehors de la rétine (à travers la papille)
+
+Les cellules horizontales peuvent transmettre le signal d'un cône/batonnet à d'autres photorécepteurs ou cellules bipolaires (inhibition latéral)

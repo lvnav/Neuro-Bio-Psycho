@@ -486,3 +486,19 @@ quelques réactions d'oxydo-réduction:
 2.  On the side of the equation containing both H+ and OH− ions, combine these ions to yield water molecules.
 3.  Simplify the equation by removing any redundant water molecules.
 9. Finally, check to see that both the number of atoms and the total charges are balanced.
+
+
+### Stoechiométrie des réactions
+
+En tant que guide général
+
+![[stoechiometry-guideline.jpg]]
+
+un exemple:
+Quelle masse d'oxygène est consumée dans la combustion de 702g d'octane:
+
+$2C_8H_18+25O_2\rightarrow16CO_2+18H_2O$
+
+$702g \space C_8H_{18}\times \frac{1mol \space C_8H_{18}}{114.23g \space C_8H_{18}}\times \frac{25mol \space O_2}{2mol \space C_8H_{18}}\times \frac{32.00 g \space O_2}{mol \space O_2}=2.46\times10^3g \space O_2$
+
+### Rendement des réactions

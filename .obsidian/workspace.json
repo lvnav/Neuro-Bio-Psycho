@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/Chemistry Atom First 2e.md",
+                "file": "Biologie/Biology 2e.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e85c35e21be432e6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Files/common-polyatomic-ions.png"
               }
             }
           }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chimie/Chemistry Atom First 2e.md",
+                "file": "Biologie/Biology 2e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chimie/Chemistry Atom First 2e.md",
+                "file": "Biologie/Biology 2e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chimie/Chemistry Atom First 2e.md"
+                "file": "Biologie/Biology 2e.md"
               }
             }
           }
@@ -171,11 +161,12 @@
   },
   "active": "d973c2ba802471d6",
   "lastOpenFiles": [
-    "Files/common-polyatomic-ions.png",
+    "Biologie/Biology 2e.md",
     "Chimie/Chemistry Atom First 2e.md",
+    "Files/stoechiometry-guideline.jpg",
+    "Files/common-polyatomic-ions.png",
     "Zettelkasten/Programme L1 BG2S.md",
     "Files/precipitate-table.png",
-    "Biologie/Biology 2e.md",
     "Files/essentials-amino-acids.png",
     "Files/fat-soluble-essentials-vitamins.png",
     "Files/minerals-and-their-functions.png",
@@ -185,7 +176,6 @@
     "Zettelkasten/Allostasie.md",
     "Files/ruminant-digestive-system.jpg",
     "Files/periodic-table-explained.jpg",
-    "Files/isomere.jpg",
     "Statistics/Vitals Statistics.md",
     "Quiz/Réponses/Biologie - 1.md",
     "Quiz/Questions/Embryologie - 1.md",
