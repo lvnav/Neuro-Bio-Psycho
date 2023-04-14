@@ -494,7 +494,7 @@ Nous interprétons l'amplitude d'une onde lumineuse comme son intensité lumineu
 
 La couleur apparente d'un objet = la couleur que l'objet réfléchi (un objet rouge réfléchi le rouge mais absorbe les autres longueurs d'ondes)
 
-#### Anatomie de l'oeil
+##### Anatomie de l'oeil
 - cornée
 - humeur aqueuse
 	- liquide entre la cornée et la pupille
@@ -540,7 +540,7 @@ Quelques pathologies:
 	- détecte pénombre (lumière faible)
 	- utile en vision périphérique et nocture
 
-#### Transduction de la lumière
+##### Transduction de la lumière
 
 Les 2 types de photorécepteurs contiennent des photopigments
 photopigment principal = rhodopsin
@@ -560,14 +560,14 @@ Physiologie:
 - fermeture des canaux $Na^+$ de la membrane du photorécepteur (hyperpolarisation)
 
 
-#### Codage trichromatique
+##### Codage trichromatique
 
 Fr = En
 Cône B = S cone
 Cône V = M cone
 Cône R = L cone
 
-#### Traitement rétinien
+##### Traitement rétinien
 
 - La lumière traverse des couches de neurones pour atteindre les cônes et batonnets dans le fond de la rétin. On parle de rétine inversée
 - Le signal visuel quitte les cônes et batonnets (si je comprends bien dans un cas où les photorécepteurs ne sont pas stimulés par de la lumière car dans ces cas là ils sont hyperpolarisés)
@@ -590,4 +590,42 @@ Avec lumière:
 - Cellules bipolaires stimule les cellules ganglionnaires
 - Cellules ganglionnaires envoient leurs signal en dehors de la rétine (à travers la papille)
 
-Les cellules horizontales peuvent transmettre le signal d'un cône/batonnet à d'autres photorécepteurs ou cellules bipolaires (inhibition latéral)
+Quand un cône ou un batonnet stimule une cellule horizontale, cette dernière va inhiber les photorécepteurs et cellules bipolaires distants => on parle d'inhibition latérale
+
+l'inhibition latérale "aiguise" les bords eu augmente le contrast.
+
+Les cellules amacrines peuvent distribuer l'information provenant d'une cellule bipolaire vers de nombreuses cellules ganglionnaires
+
+##### Traitement de haut niveau
+
+2 voies principales:
+- voie magnocellulaire
+	- porte les informations de :
+		- forme
+		- mouvement
+		- profondeurs
+		- luminance
+- voie parvocellulaire
+	- porte les informations de :
+		- couleurs
+		- détails fins
+
+Un partie des voies projette directement vers le lobe occipitale tandis qu'une autre partie passe dans l'aire opposée par le chiasme optique
+
+L'info visuelle est traitée à différents endroits mais l'une des voies est la suivante:
+- Arrivée à l'hypothalamus
+	- voie magnocellulaire et parvocellulaire traitement distinctement
+- sortie de l'hypothalamus
+- traverse jusqu'au cortex visuel primaire
+- séparation :
+	- Un flux contenant l'info magnocellulaire projete sur le lobe pariétal
+	- Un flux contenant l'info magnocellulaire et parvocellulaire projette sur le lobe temporal
+
+2 autres voies :
+- de la rétine vers le colliculus supérieur (mésencéphale)
+	- Dans le colliculus supérieur, les informations visuelles sont coordonnées et intégrées avec les informations auditives
+- de la rétine vers le noyau suprachiasmatique (SCN). Le SCN = cluster de cellules faisant office d'horloge interne. 
+
+
+#### Goût et odeur
+
