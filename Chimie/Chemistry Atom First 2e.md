@@ -502,3 +502,35 @@ $2C_8H_18+25O_2\rightarrow16CO_2+18H_2O$
 $702g \space C_8H_{18}\times \frac{1mol \space C_8H_{18}}{114.23g \space C_8H_{18}}\times \frac{25mol \space O_2}{2mol \space C_8H_{18}}\times \frac{32.00 g \space O_2}{mol \space O_2}=2.46\times10^3g \space O_2$
 
 ### Rendement des réactions
+
+#### Réactif limitant
+
+Pour identifier le réactif limitant :
+
+$3Si(s)+2N_2(g)⟶Si_3N_4(s)$
+
+avec 2g de $Si$ et 1.5g de $N_2$
+
+On calcule les moles obtenues avec 2g de $Si$ vs 1.5g de $N_2$
+
+pour 2g de $Si$ => $mol \space Si_3N_4 \space produced=0.0712 \space mol \space Si \times \frac{1mol \space Si_3N_4}{3 \space mol \space Si}=0.0237 mol \space Si_3N_4$
+
+pour 1.5g de $N_2$ => $mol \space Si_3N_4 \space produced=0.0535 \space mol \space N_2 \times \frac{1mol \space Si_3N_4}{3 \space mol \space N_2}=0.0268 mol \space Si_3N_4$
+
+Vu que le silicon donne le moins de montant, il est le réactif limitant
+
+#### Pourcentage de rendement
+
+$percent \space yield = \frac{actual \space yield}{theoretical \space yield} \times 100\%$
+
+### Analyse chimique quantitative
+
+#### Titrage
+
+titrant = solution dont ont connait la concentration d'une certaine substance qui la constitue
+
+analyte = substance dont on veut mesurer la concentration
+
+On utilise un buret pour ajouter le titrant à l'analyte incrémentalement
+
+Le titrant et l'analyte subissent une réaction dont ont connaît la stoechiometrie. Donc mesurer le volume de titrant requis pour une réaction complète avec l'analyte (= le point d'équivalence du titrage) permet de calculer la concentration de l'analyte
