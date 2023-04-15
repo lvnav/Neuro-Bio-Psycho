@@ -534,3 +534,18 @@ analyte = substance dont on veut mesurer la concentration
 On utilise un buret pour ajouter le titrant à l'analyte incrémentalement
 
 Le titrant et l'analyte subissent une réaction dont ont connaît la stoechiometrie. Donc mesurer le volume de titrant requis pour une réaction complète avec l'analyte (= le point d'équivalence du titrage) permet de calculer la concentration de l'analyte
+
+##### Analyse de titrage
+
+Pour 50ml de $HCl$. Le "end point" est atteint en ajoutant 35.23ml d'un titrant ($NaOH$) avec 0.25M
+
+$HCl(aq)+NaOH(aq)⟶NaCl(aq)+H_2O(l)$
+
+Quelle est la molarité de $HCl$ ?
+
+![[titration-analysis.jpg]]
+
+On suit le schéma ci-dessus pour trouver le résultat ($0.176M HCl$)
+
+#### Analyse gravimétrique
+

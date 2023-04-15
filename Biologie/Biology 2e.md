@@ -629,3 +629,91 @@ L'info visuelle est traitée à différents endroits mais l'une des voies est la
 
 #### Goût et odeur
 
+gout d'umami = L-glutamate
+
+#### Réception et transduction
+
+molécules odorantes entre dans le nez et se dissolve sur l'épithélium olfactif. 
+
+Chaque neurone a une seule dendrite positionnée dans l'épithelium olfactif. De cette dendrite partent 5-20 cils chargés de récepteurs qui capturent les molécules odorantes.
+
+Les récepteurs sensoriels des cils sont des protéines. C'est la variantion dans leur chaîne d'acide aminés qui exprime les différentes odeurs.
+
+Chaque neurone sensoriel olfactif a un seul type de récepteurs sur ses cils (donc spécialisé) 
+
+L'information olfactive ne passe pas par le thalamus
+
+neurones olfactifs = neurones bipolaires
+
+https://fr.wikipedia.org/wiki/Flehmen
+
+#### Le goût
+
+types de papilles (elles n'ont pas toutes des récepteurs gustatifs):
+- papilles filiformes
+	- pas de récepteurs gustatifs
+	- situé vers l'apex de la langue
+- papilles fongiformes
+	- situées aux alentours du deuxième tier en partant de l'apex
+	- 1-8 "taste buds" = cluster de cellules gustatives
+	- contiennent des récepteurs de pression et température
+- papilles foliées
+	- sur les bords vers l'arrière de la langue
+	- 1300 "taste buds"
+- papilles circumvallées/caliciformes
+	- à l'arrière de la langue 
+
+![[gustatory-papillae.png]]
+
+
+Les molécules de nourriture sont dissolues dans la salive et se lie à des récepteurs sur des microvillosités.
+
+
+### Audition et sensations vestibulaires
+
+#### Son
+Stimulus auditif = onde sonore = onde de pression se déplaçant à travers un médium
+
+vitesse du son au niveau de la mer, à 20ºC dans l'air: 343m/s
+
+4 propriétés d'une onde :
+- fréquence
+	- inversément proportionnelle à la longueur d'onde
+	- hauteur d'un son
+	- humain perçoivent l'intervalle entre 30Hz et 20 000Hz (au delà = ultrasons)
+- longueur d'onde
+	- inversément proportionnelle à la fréquence
+	- volume d'un son
+	- voie humaine = 60dB
+- période
+- amplitude
+
+#### Réception du son et transduction du son
+
+Trajet de l'onde sonore:
+- Dans l'oreille externe:
+	- arrivée au niveau de l'auricule (=pavillon de l'oreille).
+	- traverse le canal auditif externe / canal auriculaire
+	- fait vibrer le tympan (= un diaphragme = une cloison)
+- Dans l'oreille moyenne:
+	- les osselets vibrent et amplifient les sons
+		- Le malleus/marteau s'attachent à 3 points de la surface interieure de la membrane tympanique.
+		- L'incus/l'enclume attache le marteau à l'étrier/stape
+- Dans l'oreille interne
+	- arrivée de la vibration dans le labyrinthe
+	- l'étrier à fait vibrer la fenêtre du vestibule et le fluide de la cochlée
+	- La vibration de la fenêtre du vestibule crée des ondes de pression dans le périlymphe de la cochlée.
+	- Dans la cochlée (= structure en forme d'escargot)
+		- Différente parties de la membrane basilaire vont vibrer en fonction de la fréquence des ondes
+	- arrivée à l'organe de Corti
+		- pliage d'un stéréocil (mécanorécepteur) lui-même en contact ou intégré dans la membrane tectoriale au dessus de lui et avec une cellule cilié
+		- Ouverture d'un canal ionique de la cellule ciliée entraînant une dépolarisation
+		- émission d'un signal au nerf cochléaire.
+			- Intensité codé par la quantité de cellule ciliée stimulées à une position particulière
+
+Place theory = sons à hautes fréquence font vibrer la membrane basilaire au niveau de la fenenètre vestibulaire tandis que les sons à faible fréquence font vibrer la membrane basilaire plus loin
+
+#### Traitement à haut niveau
+- De la cochlée vers la medulla en passant par le pont, le mésencéphale pour atteindre le cortex auditif primaire dans le lobe temporal
+
+### L'information vestibulaire
