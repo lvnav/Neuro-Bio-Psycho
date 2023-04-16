@@ -407,6 +407,8 @@ La mesure dans laquelle une substance peut être dissolue dans un solvant s'appe
 - Si dissolution totale => base forte
 - Si dissolution partielle => base faible
 
+**sel** = composé ionique de cations et d'anions formant un produit neutre et sans charge électrique nette
+
 <center>Acides fort communs</center>
 |Compound Formula|Name in Aqueous Solution|
 |-|-|
@@ -419,6 +421,7 @@ La mesure dans laquelle une substance peut être dissolue dans un solvant s'appe
 
 Un réaction de neutralisation est un type spécifique de réaction acido-basique durant laquelle les réactifs sont: un acide et une base (sauf eau) et le produit est un sel et de l'eau
 $acide+base \rightarrow sel+eau$
+
 
 #### Réactions d'oxydoréduction (redox)
 
@@ -549,3 +552,70 @@ On suit le schéma ci-dessus pour trouver le résultat ($0.176M HCl$)
 
 #### Analyse gravimétrique
 
+A 0.4550-g solid mixture containing MgSO4 is dissolved in water and treated with an excess of Ba(NO3)2, resulting in the precipitation of 0.6168 g of BaSO4.
+
+$MgSO_4(aq)+Ba(NO_3)_2(aq)⟶BaSO_4(s)+Mg(NO_3)_2(aq)$
+
+What is the concentration (mass percent) of MgSO4 in the mixture?
+
+![[gravimetric-analysis.jpg]]
+
+
+## Thermochimie
+### Bases de l'énergie
+énergie = capacité à fournir de la chaleur ou produire un travail
+
+travail (w) = processus faisant bouger la matière contre une force opposée.
+
+énergie potentielle = énergie d'un objet dû à sa position relative, sa composition ou sa condition (ex: l'eau en haut d'un barrage)
+
+énergie cinétique = énergie qu'un objet possède du fait de son mouvement
+
+loi de conservation de l'énergie = durant un changement physique ou chimique, l'énergie ne peut ni être crée ni détruite mais peut changer de forme
+
+### Énergie thermique, température et chaleur
+Énergie themique = énergie cinétique associée au mouvement aléatoire des atomes et molécules
+
+Température = mesure quantitative du chaud/froid  
+
+Énergie cinétique moyenne (KE) = mesure de la quantité moyenne de mouvement /vibration aléatoire des atomes et molécules
+
+chaleur = énergie thermique transférée entre deux corps à deux températures différentes
+
+processus endothermique = changement qui libère de la chaleur
+processus exothermique = changement qui absorbe de la chaleur
+
+calories (cal) = montant d'énergie requis pour élever 1 gramme d'eau d'un degré C (dépend de la pression atmosphérique et température de départ de l'eau)
+Calorie = calorie large = kilocalorie
+
+Joule = SI unit de la chaleur, du travail et de l'énergie = montant d'énergie utilisé quand une force de 1 newton déplace un objet de 1 mètre
+
+$1N = 1kg \times \frac{1m}{1s^2}$
+
+$1J$ = $1kg^2/s^2$ = 1 newton-mètre
+
+$1cal = 4.184J$
+
+Capacité de chaleur (C) = quantité de chaleur (q) qu'un corps absorbe ou relâche quand il subit un changement de température ($\Delta T$) d'un degré (C ou K)
+
+$C = \frac{q}{\Delta T}$
+
+$C_{small \space pan}=\frac{18140 J}{50.0°C}=363J/°C$
+
+C dépend du type et du montant de substance qui absorbe/relâche de la chaleur => propriété extensive
+
+Capacité de chaleur spécifique (c) = chaleur spécifique = quantité de chaleur requise pour augmenter la température d'un gramme de substance d'1 degrée (C ou K)
+
+$c=\frac{q}{m \Delta T}$
+
+$c_{iron}=\frac{18,140 J}{(808 g)(50.0°C)}=0.449 J/g °C$
+
+équation ci-desus toujours valable pour un cas à 90700J et 4040g par exemple
+
+Si on connaît la mass et la chaleur spécifique d'une substance on peut déterminer le montant de chaleur q qui entre ou quitte la substance en mesurant le changement de température avant et après que la chaleur soit gagné ou perdu.
+
+$q = (specific \space heat) \times (mass \space of \space substance) \times (temperature \space change)$
+$q=c \times m \times \Delta T = c \times m \times (T_{final}-T_{initial})$
+
+
+![[commons-specific-heat.png]]

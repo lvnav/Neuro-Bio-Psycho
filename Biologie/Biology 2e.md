@@ -717,3 +717,101 @@ Place theory = sons à hautes fréquence font vibrer la membrane basilaire au ni
 - De la cochlée vers la medulla en passant par le pont, le mésencéphale pour atteindre le cortex auditif primaire dans le lobe temporal
 
 ### L'information vestibulaire
+
+## Diversité biologique
+### Champignons
+#### Caractéristiques des Fungi
+
+- hétérotrophe
+- eucaryotes
+- membrane cellulaire composée de chitine (comme exosquelette des arthropodes)
+- produise de la mélanine
+- stocke des glucides sous forme de glycogen
+- absorbe les nutriments à travers la membrance cellulaire et agi comme un "décomposeur"
+- Certains se reproduisent de manière asexuée tandis que d'autres peuvent à la fois se reproduire de manière asexuée et sexuée
+
+
+spore = cellule haploide qui peut ensuite se demultiplier par mitose pour former des individus haploides
+
+Souvent en relation symbiotique avec des plantes:
+- les racines de la plante se connecte avec la partie souterraine du fungus ce qui donne une mycorrhize
+	- À travers la micorrhize, le fungus et la plante échange des nutriments et de l'eau
+
+lichens = association entre un fungus et une algue
+
+
+#### Structure cellulaire et fonctions
+
+Les cellules:
+- ADN sous forme de multiples molécules linéaire entourant des histones
+- quelques fungis ont des structures génomiques accessoire comme les plasmides des bactéries.
+	- Le transfert horizontal de génome qui se produit entre 2 bactéries arrivent rarement
+- Peuvent avoir des mitochondries et un système complexe de membranes internes (incluant notamment un réticulum endoplasmique ainsi qu'un appareil de Golgi)
+- Pas de chloroplaste, la couleur joue un role de défense contre les radiations ultraviolettes
+- Épaisse membrane cellulaire
+	- formée de chitine et de glucane
+	- protège de la déssication et de certains prédateurs
+	- la structure de la membrane est stabilisée par de l'ergostérol (= molécule stéroide remplaçant le choléstorol)
+- Sessile (mais flagelles produites par des spores et des gamètes dans l'embranchement des Chytridiomycota)
+
+#### Croissance
+Thalle = corps végétatif d'un fungus
+
+levure = fungus unicellulaire
+
+Hyphe = structure filiforme produites par les fungi multicelluaires
+
+Fungus dimorphique peuvent devenir unicellulaire ou multicellulaire en fonction des conditions environnementales
+
+Les fungi aiment les endroits :
+- humides
+- légèrement acide
+- "indifférent" à la lumière (? attention ptet raccourci de ma part)
+- La plupart sont aérobies obligatoires (exception => Chytridiomycota qui vit dans le rumen du bétail = anaérobie obligatoire)
+
+La plupart des fungi sont multicellulaires avec deux stades morphologiques:
+- Végétatif
+	- forme d'enchevêtrement d'hyphes (le mycélium)
+		- cellules formant l'hyphe sont séparées par des septa (pluriel de septum)
+		- des petits trous permettent le flux raide de nutriments à travers les septa
+			- on parle de septa perforées
+			- Chez les Zygomycota les septa ne sont pas perforées et l'hyphe est une grande cellule multinuclée => hyphe coenocytique
+- Reproducteur
+
+#### Nutrition
+hétérotrophes pour :
+- le carbone.
+- l'azote.
+
+Les champignons digèrent avant d'ingérer:
+- Des exoenzymes sortent des hyphes
+- exoenzymes digèrent nutriments directement dans l'environnement
+- les molécules digérées sont absorbées à travers une large surface du mycélium.
+
+stocke le glucide sous forme de glycogen
+
+Fungis = saprophytes/saprobes = capable de dériver des nutriments à partir de matière organique en décomposition
+
+certains fungis sont parasitiques
+
+#### Reproduction
+
+##### Reproduction asexuée
+Par différents biais possibles:
+- Fragmentation
+	- Par exemple fragmentation des hyphes
+- bourgeonnement
+	- Chez les levures notamment par une sorte de mitose
+- production de spores
+	- produite par le thallus
+	- soit directement relachés par le thallus soit par le biais un sac (= sporocyste)
+
+##### Reproduction sexuée
+
+étapes: 
+- Plasmogamie
+	- 2 cellules haploides fusionne -> 2 noyaux haploides coexistent dans une cellule
+- Karyogamie
+	- les 2 noyaux haploides fusionnent
+- Méiose dans le gamétange
+- dispersion des spores dans l'environnement

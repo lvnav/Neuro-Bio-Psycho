@@ -23,6 +23,28 @@
             "id": "a4ca6437f6634052",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chimie/Chemistry Atom First 2e.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15186cda81ccc31b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/commons-specific-heat.png"
+              }
+            }
+          },
+          {
+            "id": "3c4563b61594f05f",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
                 "file": "Files/common-polyatomic-ions.png"
@@ -171,10 +193,12 @@
   },
   "active": "d973c2ba802471d6",
   "lastOpenFiles": [
-    "Files/common-polyatomic-ions.png",
-    "Biologie/Biology 2e.md",
-    "Files/gustatory-papillae.png",
     "Chimie/Chemistry Atom First 2e.md",
+    "Biologie/Biology 2e.md",
+    "Files/commons-specific-heat.png",
+    "Files/common-polyatomic-ions.png",
+    "Files/gravimetric-analysis.jpg",
+    "Files/gustatory-papillae.png",
     "Files/titration-analysis.jpg",
     "Files/stoechiometry-guideline.jpg",
     "Zettelkasten/Programme L1 BG2S.md",
@@ -182,8 +206,6 @@
     "Files/essentials-amino-acids.png",
     "Files/fat-soluble-essentials-vitamins.png",
     "Files/minerals-and-their-functions.png",
-    "Files/water-soluble-essentials-vitamins.png",
-    "Files/Screenshot from 2023-04-04 13-22-09.png",
     "Lectures/La machinerie de la vie.md",
     "Zettelkasten/Allostasie.md",
     "Statistics/Vitals Statistics.md",
