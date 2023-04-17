@@ -773,7 +773,7 @@ La plupart des fungi sont multicellulaires avec deux stades morphologiques:
 - Végétatif
 	- forme d'enchevêtrement d'hyphes (le mycélium)
 		- cellules formant l'hyphe sont séparées par des septa (pluriel de septum)
-		- des petits trous permettent le flux raide de nutriments à travers les septa
+		- des petits trous permettent le flux de nutriments à travers les septa
 			- on parle de septa perforées
 			- Chez les Zygomycota les septa ne sont pas perforées et l'hyphe est une grande cellule multinuclée => hyphe coenocytique
 - Reproducteur
@@ -815,3 +815,41 @@ Par différents biais possibles:
 	- les 2 noyaux haploides fusionnent
 - Méiose dans le gamétange
 - dispersion des spores dans l'environnement
+
+#### Classification des Fungi
+
+- Chytridiomycota (chytridio- = petite marmite)
+	- Une classe = Chytriodiomycètes
+	- chitine dans la membrane cellule
+		- un groupe a aussi de la cellulose
+	- généralement unicellulaire
+	- quand multicellulaire:
+		- coenocytique
+	- Produise des gamètes et des zoospores diploides qui nage avec via un flagelle
+	- males et femelles produisent des gamètes flagellées
+	- condition de vie:
+		- Généralement dans milieu aquatique
+		- Parfois en tant que parasite de:
+			- plantes
+			- insectes
+			- amphibiens
+		- Parfois en tant que saprobes
+- Zygomycota (zygo- = joug)
+	- Rhizopus stolonifer = moisissure alimentaire commune
+	- la plupart sont saprobes
+	- quelques parasites d'insectes
+	- thallus d'hyphen coenocytique
+		- noyaux haploides durant période végétative
+	- reproduction généralement asexuée par le biais de sporangiospores 
+	- quand reproduction sexuée:
+		- requiert 2 brins de types différents (+ et -)
+		- requiert proximité entre les deux brins
+		- etapes de la conjugaison:
+			- gamétange de l'un va fusionner dans l'hyphen de l'autre
+			- karyogamie (résultante = zygospore)
+			- germination du zygospore
+			- méiose du zygospore
+			- production de spores haploides
+- Ascomycota (asco- = outre)
+- Basidiomycota (basidio- = base)
+- Glomeromycota (glomero- = boule)

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d973c2ba802471d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Biology 2e.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4ca6437f6634052",
             "type": "leaf",
             "state": {
@@ -45,13 +33,16 @@
             "id": "3c4563b61594f05f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files/common-polyatomic-ions.png"
+                "file": "Biologie/Biology 2e.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -191,12 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d973c2ba802471d6",
+  "active": "587c6da5d30e5889",
   "lastOpenFiles": [
-    "Chimie/Chemistry Atom First 2e.md",
+    "Files/mass-spectrometry.jpg",
     "Biologie/Biology 2e.md",
-    "Files/commons-specific-heat.png",
     "Files/common-polyatomic-ions.png",
+    "Chimie/Chemistry Atom First 2e.md",
+    "Files/commons-specific-heat.png",
     "Files/gravimetric-analysis.jpg",
     "Files/gustatory-papillae.png",
     "Files/titration-analysis.jpg",
