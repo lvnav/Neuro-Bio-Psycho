@@ -838,14 +838,14 @@ Par différents biais possibles:
 	- Rhizopus stolonifer = moisissure alimentaire commune
 	- la plupart sont saprobes
 	- quelques parasites d'insectes
-	- thallus d'hyphen coenocytique
+	- thallus d'hyphe coenocytique
 		- noyaux haploides durant période végétative
 	- reproduction généralement asexuée par le biais de sporangiospores 
 	- quand reproduction sexuée:
 		- requiert 2 brins de types différents (+ et -)
 		- requiert proximité entre les deux brins
 		- etapes de la conjugaison:
-			- gamétange de l'un va fusionner dans l'hyphen de l'autre
+			- gamétange de l'un va fusionner dans l'hyphe de l'autre
 			- karyogamie (résultante = zygospore)
 			- germination du zygospore
 			- méiose du zygospore

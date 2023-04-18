@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie/Chemistry Atom First 2e.md",
+                "file": "Zettelkasten/Programme L1 BG2S.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,19 +30,31 @@
             }
           },
           {
-            "id": "3c4563b61594f05f",
+            "id": "2acf968ed8244b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologie/Biology 2e.md",
+                "file": "studocu - cours L1/math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d98505652d6581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "studocu - cours L1/chimie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologie/Biology 2e.md",
+                "file": "studocu - cours L1/chimie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologie/Biology 2e.md",
+                "file": "studocu - cours L1/chimie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologie/Biology 2e.md"
+                "file": "studocu - cours L1/chimie.md"
               }
             }
           }
@@ -182,22 +194,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587c6da5d30e5889",
+  "active": "c8d98505652d6581",
   "lastOpenFiles": [
-    "Files/mass-spectrometry.jpg",
-    "Biologie/Biology 2e.md",
+    "studocu - cours L1/math.md",
+    "studocu - cours L1/chimie.md",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres_files/bg6.png",
+    "studocu - cours L1/Génétique 1 - cours complet.pdf",
+    "studocu - cours L1/Bases de Physique pour la SVT Cours complet.pdf",
+    "studocu - cours L1/DIVI V - Diversité du vivant végétal, structure d'une plante et tous les détails.pdf",
+    "studocu - cours L1/Diversité du vivant partie animale.pdf",
+    "studocu - cours L1/Introduction DIVI.pdf",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres.pdf",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres_files/bg3.png",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres_files/bg2.png",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres_files/bg1.png",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres_files/bgf.png",
+    "studocu - cours L1/Biocellulaire - Cours CAO avec schémas légendés du partiel à la fin des chapitres_files/bg4.png",
     "Files/common-polyatomic-ions.png",
+    "Zettelkasten/Programme L1 BG2S.md",
+    "Zettelkasten/Untitled.md",
+    "Biologie/Biology 2e.md",
     "Chimie/Chemistry Atom First 2e.md",
     "Files/commons-specific-heat.png",
+    "Files/mass-spectrometry.jpg",
     "Files/gravimetric-analysis.jpg",
-    "Files/gustatory-papillae.png",
-    "Files/titration-analysis.jpg",
-    "Files/stoechiometry-guideline.jpg",
-    "Zettelkasten/Programme L1 BG2S.md",
-    "Files/precipitate-table.png",
-    "Files/essentials-amino-acids.png",
-    "Files/fat-soluble-essentials-vitamins.png",
-    "Files/minerals-and-their-functions.png",
     "Lectures/La machinerie de la vie.md",
     "Zettelkasten/Allostasie.md",
     "Statistics/Vitals Statistics.md",
@@ -211,16 +231,12 @@
     "Enquêtes/Clarifications des grandes étapes du développement embryonnaire.md",
     "Quiz/Réponses",
     "Quiz/Untitled/Untitled",
-    "Quiz/Questions",
-    "Quiz",
     "Enquêtes/Clarifications phylogénétiques.md",
-    "Chimie",
     "Enquêtes/Clarifications concernant la faune et la flore des différentes ères géologiques.md",
     "Enquêtes/Clarifications botaniques de quelques aliments végétaux.md",
     "Enquêtes/Histoire de la théorie de l'évolution.md",
     "Enquêtes/Comparatif des moyens de reproduction du vivant.md",
     "Lectures/Behave The Biology of Humans at Our Best and Worst.md",
-    "Enquêtes",
     "Zettelkasten/Behavioral evolution.md",
     "Zettelkasten/homéostasie.md",
     "Zettelkasten/potentiel d'action.md"
